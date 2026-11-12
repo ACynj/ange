@@ -1,0 +1,400 @@
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "A", "score": 0.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "G", "score": 0.0, "raw": "G\nANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "D", "score": 1.0, "raw": "D\nANSWER: D"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "C", "score": 0.0, "raw": "ANSWER: C"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "F", "score": 0.0, "raw": "F\nANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "D", "score": 1.0, "raw": "D\nANSWER: D"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "E", "score": 0.0, "raw": "E\nANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "I", "score": 0.0, "raw": "I. concept_academicfield_liberal_arts\nANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "C", "score": 1.0, "raw": "ANSWER: C"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "G", "score": 0.0, "raw": "G\nANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "G", "score": 0.0, "raw": "G\nANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "E", "score": 1.0, "raw": "E\nANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "G", "score": 1.0, "raw": "G\nANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "D", "score": 1.0, "raw": "ANSWER: D"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "C", "score": 1.0, "raw": "C\nANSWER: C"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "F", "score": 0.0, "raw": "F\nANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "D", "score": 1.0, "raw": "D\nANSWER: D"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "J\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "A", "score": 1.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "H", "score": 0.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "G", "score": 1.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "H", "score": 1.0, "raw": "ANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "H", "score": 0.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "I", "score": 1.0, "raw": "ANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "H", "score": 0.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "A", "score": 0.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "H", "score": 1.0, "raw": "H. concept_televisionstation_keyt\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "F", "score": 1.0, "raw": "F\nANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "H", "score": 0.0, "raw": "H. concept_city_atlanta\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "G", "score": 1.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "H", "score": 0.0, "raw": "ANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "I", "score": 0.0, "raw": "ANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "A", "score": 1.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "F", "score": 0.0, "raw": "ANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "H", "score": 0.0, "raw": "ANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "J\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "G", "score": 0.0, "raw": "G\nANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "H", "score": 0.0, "raw": "ANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "I", "score": 1.0, "raw": "ANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "H", "score": 1.0, "raw": "ANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "F", "score": 1.0, "raw": "F\nANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "I", "score": 0.0, "raw": "I\nANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "B", "score": 1.0, "raw": "B\nANSWER: B"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "G", "score": 1.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "I", "score": 1.0, "raw": "I. concept_country_countries\nANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "H", "score": 0.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "J", "score": 0.0, "raw": "J. concept_beverage_sauce\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "A", "score": 0.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "E", "score": 0.0, "raw": "E\nANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "H", "score": 1.0, "raw": "H. concept_academicfield_computer_science\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "A", "score": 0.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "I", "score": 0.0, "raw": "I\nANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "H", "score": 0.0, "raw": "ANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "G", "score": 1.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "A", "score": 0.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "I", "score": 1.0, "raw": "ANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "D", "score": 0.0, "raw": "D\nANSWER: D"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "I", "score": 0.0, "raw": "I. concept_year_n1998\nANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "C", "score": 0.0, "raw": "C\nANSWER: C"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "A", "score": 1.0, "raw": "ANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "C", "score": 1.0, "raw": "ANSWER: C"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "A", "score": 1.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "H", "score": 0.0, "raw": "ANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "B", "score": 0.0, "raw": "ANSWER: B"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "I", "score": 0.0, "raw": "ANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "J", "score": 0.0, "raw": "J\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "E", "score": 1.0, "raw": "E\nANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "E", "score": 1.0, "raw": "E\nANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "H", "score": 1.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "I", "score": 0.0, "raw": "I\nANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "J", "score": 0.0, "raw": "J. concept_chemical_nitrogen\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "B", "score": 0.0, "raw": "ANSWER: B"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "G", "score": 1.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "H", "score": 0.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "I", "score": 0.0, "raw": "ANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "J\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "F", "score": 0.0, "raw": "ANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "I", "score": 1.0, "raw": "I. concept_mammal_dog\nANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "A", "score": 1.0, "raw": "ANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "H", "score": 1.0, "raw": "ANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "J", "score": 0.0, "raw": "J\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "A", "score": 1.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "G", "score": 1.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "A", "score": 0.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "H", "score": 0.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "B", "score": 0.0, "raw": "B\nANSWER: B"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "J. concept_writer_j_m__barrie\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "J", "score": 0.0, "raw": "J\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "H", "score": 1.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "B", "score": 0.0, "raw": "ANSWER: B"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "C", "score": 0.0, "raw": "ANSWER: C"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "B", "score": 0.0, "raw": "B\nANSWER: B"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "A", "score": 0.0, "raw": "ANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "J", "score": 0.0, "raw": "J. concept_food_leaf\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "F", "score": 0.0, "raw": "ANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "I", "score": 0.0, "raw": "ANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "C", "score": 0.0, "raw": "ANSWER: C"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "G", "score": 1.0, "raw": "G\nANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "H", "score": 0.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "C", "score": 0.0, "raw": "ANSWER: C"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "I", "score": 0.0, "raw": "ANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "J", "score": 0.0, "raw": "J\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "B", "score": 0.0, "raw": "ANSWER: B"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "H", "score": 0.0, "raw": "H. concept_agriculturalproduct_fruits\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "A", "score": 0.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "C", "score": 1.0, "raw": "ANSWER: C"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "F", "score": 0.0, "raw": "ANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "H", "score": 1.0, "raw": "ANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "J", "score": 0.0, "raw": "J\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "H", "score": 1.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "A", "score": 0.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "F", "score": 0.0, "raw": "F\nANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "B", "score": 1.0, "raw": "B\nANSWER: B"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "H", "score": 1.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "J", "score": 0.0, "raw": "J. concept_visualizableobject_shirt\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "F", "score": 0.0, "raw": "F\nANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "J", "score": 0.0, "raw": "J. concept_university_search\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "B", "score": 0.0, "raw": "B\nANSWER: B"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "H", "score": 1.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "J. concept_university_morehead\nANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "I", "score": 1.0, "raw": "I\nANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "G", "score": 1.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "D", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "B", "score": 1.0, "raw": "B\nANSWER: B"}
+{"arm": "retrieval_full+lora_p2", "gold": "H", "pred": "D", "score": 0.0, "raw": "D\nANSWER: D"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "B", "score": 1.0, "raw": "B\nANSWER: B"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "A", "score": 0.0, "raw": "ANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "G", "score": 0.0, "raw": "G\nANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "E", "score": 0.0, "raw": "E\nANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "C", "score": 0.0, "raw": "ANSWER: C"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "C", "score": 0.0, "raw": "ANSWER: C"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "D", "score": 0.0, "raw": "ANSWER: D"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "J", "pred": "J", "score": 1.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "A", "score": 0.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "D", "score": 0.0, "raw": "D\nANSWER: D"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "F", "score": 0.0, "raw": "ANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "I", "score": 0.0, "raw": "I\nANSWER: I"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "G", "score": 1.0, "raw": "G\nANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "I", "pred": "H", "score": 0.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "H", "score": 0.0, "raw": "H\nANSWER: H"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "D", "score": 0.0, "raw": "ANSWER: D"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"arm": "retrieval_full+lora_p2", "gold": "E", "pred": "E", "score": 1.0, "raw": "E\nANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "A", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "A", "score": 0.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "E", "score": 0.0, "raw": "ANSWER: E"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "A", "score": 0.0, "raw": "A\nANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "G", "score": 0.0, "raw": "ANSWER: G"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "F", "score": 1.0, "raw": "F\nANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "F", "score": 1.0, "raw": "ANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "G", "pred": "A", "score": 0.0, "raw": "ANSWER: A"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "C", "score": 1.0, "raw": "C\nANSWER: C"}
+{"arm": "retrieval_full+lora_p2", "gold": "B", "pred": "F", "score": 0.0, "raw": "ANSWER: F"}
+{"arm": "retrieval_full+lora_p2", "gold": "F", "pred": "B", "score": 0.0, "raw": "B\nANSWER: B"}
+{"arm": "retrieval_full+lora_p2", "gold": "C", "pred": "B", "score": 0.0, "raw": "B\nANSWER: B"}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_bodypartcontainsbodypart_reverse' starting from entity 'concept_artery_aorta' (node n36), we "}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_sportschoolincountry' starting from entity 'concept_sport_ski' (node n35), we need to look fo"}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_subpartof_reverse' starting from entity 'concept_stateorprovince_montana' (node n36), we need"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_proxyfor_reverse' starting from entity 'concept_politicaloffice_central' (node n39), we need "}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_island_mother' (node n40), we need to follow the edges "}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_bodypartcontainsbodypart' starting from entity 'concept_bodypart_atrium' (node n34), we need "}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_jobposition_court' (node n37), we need to look for an e"}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_bookwriter_reverse' starting from entity 'concept_personus_mark_twain' (node n33), we need to"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_clothingtogowithclothing' starting from entity 'concept_clothing_dress' (node n32), we need t"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_academicprogramatuniversity_reverse' starting from entity 'concept_university_ohio_state' (no"}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_companyeconomicsector_reverse' starting from the entity 'concept_economicsector_electronics' "}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_clothingtogowithclothing_reverse' starting from entity 'concept_clothing_glasses' (node n33),"}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "I", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_furniturefoundinroom_reverse' starting from entity 'concept_officebuildingroom_accommodations"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "E", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_statelocatedingeopoliticallocation' starting from the entity 'concept_stateorprovince_florida"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "G", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_animalistypeofanimal' starting from entity 'concept_mammal_elk' (node n28), we need to look f"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "J", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_mutualproxyfor_reverse' starting from entity 'concept_musicalbum_stage' (node n44), we need t"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_country_egypt' (node n38), we need to look for an edge "}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "D", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_countrycurrency' starting from the entity 'concept_country_jamaica' (node n43), we need to lo"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "I", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atlocation_reverse' starting from entity 'concept_website_south' (node n37), we need to look "}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_worksfor_reverse' starting from entity 'concept_governmentorganization_navy' (node n34), we n"}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "D", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_animalistypeofanimal_reverse' starting from entity 'concept_mammal_horses' (node n30), we nee"}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_clothingtogowithclothing_reverse' starting from entity 'concept_clothing_skirts' (node n27), "}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agriculturalproductcookedwithagriculturalproduct_reverse' starting from entity 'concept_veget"}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from entity 'concept_sportsteam_red_wings' (node n37),"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "F", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agentcreated' starting from entity 'concept_city_link' (node n36), we need to look for an edg"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "A", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_stadiumlocatedincity_reverse' starting from 'concept_city_san_diego' (node n36), we need to l"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "J", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_automobilemakerdealersincity' starting from entity 'concept_automobilemaker_nissan' (node n37"}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_plantrepresentemotion' starting from entity 'concept_plant_flowers' (node n31), we need to tr"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "C", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from entity 'concept_sportsteam_tampa_bay_rays' (node "}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_organizationdissolvedatdate_reverse' starting from entity 'concept_month_march' (node n34), w"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "H", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_worksfor_reverse' starting from 'concept_bank_general_electric' (node n32), we need to look f"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_subpartof' starting from entity 'concept_museum_facilities' (node n39), we need to look at th"}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_personmovedtostateorprovince' starting from entity 'concept_person_brian' (node n39), we need"}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_arthropodcalledarthropod_reverse' starting from entity 'concept_crustacean_crab' (node n30), "}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_politicianusmemberofpoliticalgroup' starting from entity 'concept_politicianus_al_gore' (node"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "C", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_televisionstationincity_reverse' starting from entity 'concept_city_santa_barbara_de_nexe' (n"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_professionistypeofprofession' starting from entity 'concept_profession_lawyers' (node n30), w"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "E", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_stadiumlocatedincity' starting from 'concept_stadiumoreventvenue_petco_park' (node n46), we n"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agentcollaborateswithagent_reverse' starting from entity 'concept_company_clinton' (node n27)"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_beveragemadefrombeverage_reverse' starting from entity 'concept_wine_sauvignon' (node n35), w"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "C", "score": 0.0, "raw": "To determine the correct target of the 'concept_atdate' relation starting from 'concept_terroristorganization_force' (node n37), we need to look at th"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "D", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_cityliesonriver_reverse' starting from entity 'concept_river_susquehanna' (node n40), we need"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "E", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atlocation_reverse' starting from entity 'concept_city_cleveland' (node n38), we need to look"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_personborninlocation_reverse' starting from entity 'concept_country_orleans' (node n32), we n"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "D", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_website_visit' (node n37), we need to look for nodes th"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_worksfor_reverse' starting from entity 'concept_tradeunion_congress' (node n34), we need to l"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "E", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_furniturefoundinroom_reverse' starting from entity 'concept_room_suite' (node n37), we need t"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_personbelongstoorganization_reverse' starting from entity 'concept_politicalparty_college' (n"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "A", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_website_million' (node n40), we need to follow the edge"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_musicartistgenre_reverse' starting from entity 'concept_musicgenre_classic_rock' (node n34), "}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the 'concept_atdate' relation starting from 'concept_physicalaction_states' (node n41), we need to follow the 'conc"}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_charactertrait_survey' (node n39), we need to look for "}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_istallerthan' starting from 'concept_politicsissue_oregon' (node n35), we need to look at the"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_personbelongstoorganization_reverse' starting from entity 'concept_politicalparty_college' (n"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam' starting from entity 'concept_sportsteam_michigan_state' (node n37), we"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "D", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_furniturefoundinroom_reverse' starting from entity 'concept_room_loft' (node n37), we need to"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_athleteplaysforteam_reverse' starting from entity 'concept_sportsteam_liverpool' (node n34), "}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "G", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_agentcollaborateswithagent' starting from entity 'concept_ceo_robert_iger' (node n37), we nee"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agriculturalproductcomingfromvertebrate_reverse' starting from entity 'concept_fish_trout' (n"}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_countrylocatedingeopoliticallocation' starting from entity 'concept_country_zimbabwe' (node n"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "H", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from entity 'concept_sportsteam_timberwolves' (node n3"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "E", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_itemfoundinroom_reverse' starting from entity 'concept_room_suite' (node n35), we need to loo"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "E", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_beveragemadefrombeverage' starting from entity 'concept_beverage_water' (node n36), we need t"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "E", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate_reverse' starting from entity 'concept_date_n1944' (node n36), we need to look for a n"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "J", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_chemicalistypeofchemical_reverse' starting from entity 'concept_chemical_pollutants' (node n3"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "B", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agriculturalproductcomingfromvertebrate' starting from entity 'concept_agriculturalproduct_da"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "H", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_academicfieldsuchasacademicfield' starting from entity 'concept_academicfield_information_tec"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate_reverse' starting from entity 'concept_year_n1975' (node n35), we need to look for nod"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_bodypartcontainsbodypart' starting from 'concept_artery_ventricle' (node n31), we need to loo"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_comedian_day' (node n38), we need to look for an edge t"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "J", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam' starting from entity 'concept_sportsteam_tampa' (node n35), we need to "}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_athleteplayssportsteamposition_reverse' starting from 'concept_sportsteamposition_running_bac"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "Based on the provided edge records, the entity 'concept_dateliteral_n1990' (node n37) has a reverse 'concept_atdate' relationship with node n1994 (whi"}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_politicianusholdsoffice_reverse' starting from entity 'concept_politicaloffice_senate' (node "}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_city_map' (node n44), we need to look for nodes that ha"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "B", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam' starting from 'concept_sportsteam_seahawks' (node n35), we need to look"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_beveragemadefrombeverage' starting from entity 'concept_beverage_blends' (node n32), we need "}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_physicalaction_production' (node n37), we need to look "}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "C", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_animalsuchasinvertebrate' starting from entity 'concept_crustacean_mollusks' (node n26), we n"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_professionistypeofprofession' starting from entity 'concept_jobposition_physician' (node n23)"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "D", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agriculturalproductcookedwithagriculturalproduct' starting from entity 'concept_food_cream' ("}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from entity 'concept_sportsteam_utah_jazz' (node n32),"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "F", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_countrylocatedingeopoliticallocation' starting from 'concept_country_tunisia' (node n41), we "}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "H", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agriculturalproductcontainchemical' starting from 'concept_agriculturalproduct_green_tea' (no"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "A", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_athletehomestadium_reverse' starting from entity 'concept_stadiumoreventvenue_giants_stadium'"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "A", "score": 1.0, "raw": "To determine the correct target of the 'concept_agentcreated' relation starting from 'concept_nongovorganization_council' (node n39), we need to look "}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_governmentorganization_bureau' (node n44), we need to l"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_chemicalistypeofchemical_reverse' starting from entity 'concept_chemical_chemicals' (node n34"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "E", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_itemfoundinroom' starting from entity 'concept_bathroomitem_tubs' (node n37), we need to look"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_city_seat' (node n45), we need to look for an edge that"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "E", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_citylocatedingeopoliticallocation_reverse' starting from 'concept_country_poland' (node n36),"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "H", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_cityliesonriver' starting from the entity 'concept_city_baghdad' (node n40), we need to look "}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "C", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_chemicalistypeofchemical' starting from entity 'concept_chemical_nitrogen' (node n34), we nee"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "A", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_chemicalistypeofchemical_reverse' starting from entity 'concept_chemical_gases' (node n33), w"}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from the entity 'concept_governmentorganization_rule' (node n42), we need to"}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_subpartof_reverse' starting from entity 'concept_website_market' (node n34), we need to look "}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_personalsoknownas' starting from entity 'concept_athlete_p_j__walters' (node n30), we need to"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_sportusesequipment_reverse' starting from entity 'concept_sportsequipment_products' (node n38"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate_reverse' starting from entity 'concept_month_august' (node n35), we need to look for a"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "J", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_hashusband_reverse' starting from entity 'concept_athlete_jim' (node n36), we need to look fo"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "J", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_teamhomestadium_reverse' starting from 'concept_stadiumoreventvenue_madison_square_garden' (n"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_animaleatfood' starting from entity 'concept_mammal_horses' (node n29), we need to look for a"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_country_thailand' (node n36), we need to look for edges"}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "I", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_animalpreyson_reverse' starting from entity 'concept_mammal_puppies' (node n36), we need to l"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "B", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysincity' starting from 'concept_sportsteam_los_angeles_clippers' (node n42), we need "}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_organizationhiredperson' starting from entity 'concept_company_nike' (node n27), we need to l"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "G", "score": 0.0, "raw": "Based on the provided edge records and the query, we need to find the entity that has a reverse 'concept_atdate' relationship with 'concept_date_n1958"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "B", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_athletehomestadium_reverse' starting from entity 'concept_stadiumoreventvenue_invesco_field' "}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "D", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_arthropodandotherarthropod_reverse' starting from entity 'concept_insect_flies' (node n24), w"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "J", "score": 0.0, "raw": "Based on the provided edge records, there is no direct or reverse relation from 'concept_reptile_pets' (node n30) to any disease. The query is asking "}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "E", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_chemicalistypeofchemical_reverse' starting from entity 'concept_chemical_materials' (node n36"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam' starting from 'concept_sportsteam_saints' (node n36), we need to look f"}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "B", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysincity_reverse' starting from 'concept_city_orlando' (node n37), we need to look for"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_bookwriter' starting from the entity 'concept_book_peter_pan' (node n39), we need to look for"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_subpartof_reverse' starting from entity 'concept_hallwayitem_air' (node n35), we need to look"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate_reverse' starting from entity 'concept_date_n1941' (node n37), we need to look for nod"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_clothingtogowithclothing_reverse' starting from 'concept_clothing_sweat_pants' (node n30), we"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "I", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atlocation_reverse' starting from 'concept_city_providence' (node n42), we need to look for n"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from 'concept_sportsteam_florida_gators' (node n36), w"}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "B", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_animalpreyson' starting from entity 'concept_animal_hamsters' (node n21), we need to trace th"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "H", "score": 0.0, "raw": "Based on the provided edge records and the aliases, we can see that 'concept_chemical_air_pollutants' (n35) has a reverse 'concept_chemicalistypeofche"}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "F", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_county_philadelphia' (node n37), we need to look for an"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from entity 'concept_sportsteam_ohio_state_buckeyes' ("}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_chemicalistypeofchemical_reverse' starting from entity 'concept_chemical_fumes' (node n31), w"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "B", "score": 0.0, "raw": "Based on the provided edge records and the query, we can see that node `n36` (alias `1988`) has an outgoing edge with the relation `concept_atdate_rev"}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_itemfoundinroom_reverse' starting from entity 'concept_visualizablething_bathrooms' (node n36"}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_invertebratefeedonfood' starting from entity 'concept_insect_mites' (node n29), we need to tr"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_proxyfor_reverse' starting from entity 'concept_book_years' (node n34), we need to look for a"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agentcollaborateswithagent_reverse' starting from entity 'concept_company_services' (node n35"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_organizationheadquarteredincity_reverse' starting from 'concept_city_atlanta' (node n32), we "}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_county_philadelphia' (node n37), we need to follow the "}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_athletehomestadium_reverse' starting from entity 'concept_stadiumoreventvenue_united_center' "}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "F", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_proxyfor_reverse' starting from 'concept_university_ohio' (node n36), we need to look for an "}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "B", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam' starting from 'concept_sportsteam_jaguars' (node n31), we need to look "}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the 'concept_atdate' relation starting from 'concept_city_washington_dc' (node n37), we need to look at the provide"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agentcontributedtocreativework' starting from entity 'concept_personus_piers_anthony' (node n"}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_automobilemakercardealersinstateorprovince_reverse' starting from 'concept_stateorprovince_ke"}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "H", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agriculturalproductcontainchemical_reverse' starting from entity 'concept_chemical_sugar' (no"}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_furniturefoundinroom_reverse' starting from entity 'concept_officebuildingroom_living_room' ("}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "C", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_animalpreyson' starting from entity 'concept_animal_pet' (node n27), we need to look at the g"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_governmentorganization_commission' (node n37), we need "}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_athleteinjuredhisbodypart_reverse' starting from entity 'concept_bone_shoulder' (node n35), w"}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "D", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agentactsinlocation_reverse' starting from entity 'concept_aquarium_uk_' (node n35), we need "}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_persongraduatedfromuniversity' starting from entity 'concept_person_greg001' (node n36), we n"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_animalsuchasinsect' starting from entity 'concept_arthropod_external_parasites' (node n21), w"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_locationlocatedwithinlocation_reverse' starting from entity 'concept_county_columbus' (node n"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "H", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_locationlocatedwithinlocation_reverse' starting from entity 'concept_city_police' (node n35),"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_bacteriaisthecausativeagentofphysiologicalcondition' starting from entity 'concept_bacteria_s"}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_academicfieldconcernssubject_reverse' starting from entity 'concept_economicsector_computer' "}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam' starting from entity 'concept_sportsteam_spurs' (node n37), we need to "}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_athleteplaysforteam_reverse' starting from entity 'concept_sportsteam_astros' (node n29), we "}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "E", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_itemfoundinroom' starting from the entity 'concept_visualizablething_hairdryer' (node n38), w"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "H", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_mutualproxyfor' starting from 'concept_stateorprovince_arizona' (node n36), we need to look f"}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "I", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_clothingtogowithclothing' starting from entity 'concept_clothing_socks' (node n31), we need t"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "F", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_televisionstationincity_reverse' starting from entity 'concept_city_louisville' (node n30), w"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agentcompeteswithagent_reverse' starting from entity 'concept_tradeunion_search' (node n36), "}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agentactsinlocation_reverse' starting from entity 'concept_island_houston' (node n42), we nee"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "G", "score": 0.0, "raw": "Based on the provided edge records and the query, we need to find an entity that is related to 'concept_politicalparty_parliament' (node n39) with the"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate_reverse' starting from entity 'concept_dateliteral_n1987' (node n36), we need to look "}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "J", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_proxyfor_reverse' starting from entity 'concept_coach_kentucky' (node n31), we need to look f"}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_subpartof_reverse' starting from entity 'concept_website_peru' (node n39), we need to look fo"}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agentcontrols_reverse' starting from entity 'concept_book_america' (node n34), we need to loo"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_eventoutcome_report' (node n37), we need to look for no"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_organizationhiredperson' starting from entity 'concept_sportsteam_jaguars' (node n32), we nee"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_organizationhiredperson' starting from 'concept_city_madrid' (node n33), we need to look for "}
+{"arm": "retrieval_full+frozen", "gold": "D", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from entity 'concept_sportsteam_tar_heels' (node n35),"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "D", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_politicianusmemberofpoliticalgroup' starting from entity 'concept_female_hillary' (node n34),"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysincity_reverse' starting from entity 'concept_city_philadelphia' (node n36), we need"}
+{"arm": "retrieval_full+frozen", "gold": "H", "pred": "D", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_plantincludeplant' starting from 'concept_plant_oak' (node n26), we need to look at the given"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "C", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_countryalsoknownas_reverse' starting from entity 'concept_country_philippines' (node n33), we"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_athletehomestadium_reverse' starting from entity 'concept_stadiumoreventvenue_wrigley_field' "}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_chemicalistypeofchemical_reverse' starting from entity 'concept_chemical_sulfur' (node n34), "}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate_reverse' starting from entity 'concept_date_n1944' (node n37), we need to look for a n"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "C", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_visualartistartform_reverse' starting from the entity 'concept_visualizablething_painting' (n"}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "I", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_personhasjobposition_reverse' starting from entity 'concept_jobposition_king' (node n36), we "}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_geometricshape_effect' (node n37), we need to look for "}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "A", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_atdate' starting from entity 'concept_perceptionaction_retirement' (node n39), we need to loo"}
+{"arm": "retrieval_full+frozen", "gold": "J", "pred": "J", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_companyeconomicsector' starting from entity 'concept_publication_espn' (node n44), we need to"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_sportsgamewinner_reverse' starting from entity 'concept_sportsteam_minnesota_twins' (node n32"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_clothingtogowithclothing' starting from entity 'concept_visualizableobject_coat' (node n29), "}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "A", "score": 1.0, "raw": "To determine the correct target of the relation 'concept_agentcollaborateswithagent' starting from entity 'concept_mountain_fox' (node n37), we need t"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_arthropodandotherarthropod_reverse' starting from entity 'concept_arthropod_arthropods' (node"}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_agriculturalproductcomingfromvertebrate' starting from entity 'concept_meat_beef' (node n34),"}
+{"arm": "retrieval_full+frozen", "gold": "I", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_personleadsorganization_reverse' starting from entity 'concept_company_apple002' (node n30), "}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_professionistypeofprofession' starting from entity 'concept_profession_support_staff' (node n"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_professionistypeofprofession_reverse' starting from entity 'concept_profession_professions' ("}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "J", "score": 0.0, "raw": "Given the context and the nodes provided, the entity 'concept_country_norway' (node n36) is likely to be located in a Scandinavian country. The relati"}
+{"arm": "retrieval_full+frozen", "gold": "E", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam' starting from entity 'concept_sportsteam_former_san_francisco_giants' ("}
+{"arm": "retrieval_full+frozen", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from 'concept_sportsteam_brooklyn_dodgers' (node n42),"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_atdate_reverse' starting from entity 'concept_year_n1985' (node n34), we need to look for nod"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_hasofficeincity' starting from entity 'concept_company_ryanair' (node n37), we need to look a"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_clothingtogowithclothing_reverse' starting from entity 'concept_clothing_dress' (node n31), w"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_organizationheadquarteredinstateorprovince_reverse' starting from entity 'concept_visualizabl"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_citylocatedincountry' starting from the entity 'concept_city_madrid' (node n37), we need to l"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_athletehomestadium_reverse' starting from entity 'concept_stadiumoreventvenue_wrigley_field' "}
+{"arm": "retrieval_full+frozen", "gold": "G", "pred": "E", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_clothingtogowithclothing_reverse' starting from entity 'concept_clothing_jacket' (node n31), "}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_subpartof_reverse' starting from 'concept_university_kentucky' (node n33), we need to look fo"}
+{"arm": "retrieval_full+frozen", "gold": "B", "pred": "C", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_personbelongstoorganization_reverse' starting from entity 'concept_politicalparty_college' (n"}
+{"arm": "retrieval_full+frozen", "gold": "F", "pred": "J", "score": 0.0, "raw": "The query is asking for the entity that is the target of the relation 'concept_animalistypeofanimal' starting from the entity 'concept_animal_carnivor"}
+{"arm": "retrieval_full+frozen", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_bakedgoodservedwithbeverage_reverse' starting from entity 'concept_beverage_white_chocolate' "}

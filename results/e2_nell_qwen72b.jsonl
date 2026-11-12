@@ -1,0 +1,600 @@
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "I", "pred": "J", "score": 0.0, "raw": "To find the correct target of the relation 'concept_bodypartcontainsbodypart_reverse' starting from 'concept_artery_aorta', we need to look for an edge where 'concept_artery_aorta' (e8) is the source "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation 'concept_sportschoolincountry' starting from entity 'concept_sport_ski' (e1), we need to look for edges in the format: e1 concept_sportschoolincountry e"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "D", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_subpartof_reverse' starting from entity 'concept_stateorprovince_montana', we need to look for an edge in the format: e14 concept_subpartof_reverse "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "A", "score": 1.0, "raw": "To find the correct target of the relation 'concept_proxyfor_reverse' starting from the entity 'concept_politicaloffice_central', we need to look for an edge in the format: `e7 concept_proxyfor_revers"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "D", "pred": "J", "score": 0.0, "raw": "The entity 'concept_island_mother' is not directly listed in the aliases provided, which means we need to identify it from the edges. However, the question asks for the target of the 'concept_atdate' "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To find the correct target of the relation 'concept_bodypartcontainsbodypart' starting from entity 'concept_bodypart_atrium', we need to look for an edge in the format: e26 concept_bodypartcontainsbod"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "B", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_atdate' starting from the entity 'concept_jobposition_court', we need to look for an edge in the format: e69 concept_atdate eX, where eX is the targ"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "D", "pred": "A", "score": 0.0, "raw": "To solve this, we need to find the entities that are connected to 'concept_personus_mark_twain' (e3) through the 'concept_bookwriter_reverse' relation. This relation indicates that the target entity w"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct targets of the 'concept_clothingtogowithclothing' relation starting from 'concept_clothing_dress' (e0). We will look for all edges where e0 is the source"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "H", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_academicprogramatuniversity_reverse' starting from the entity 'concept_university_ohio_state', we need to look for edges where 'concept_university_o"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "C", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_companyeconomicsector_reverse' starting from 'concept_economicsector_electronics', we need to look for an edge where 'concept_economicsector_electro"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "C", "score": 0.0, "raw": "To solve this, we need to find the node that represents 'concept_clothing_glasses' and then look for the 'concept_clothingtogowithclothing_reverse' relation starting from that node.\n\nHowever, in the p"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To find the correct target of the relation 'concept_atdate_reverse' starting from entity 'concept_dateliteral_n1990' (e0), we need to look for all the edges where e0 is the source and the relation is "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "D", "pred": "C", "score": 0.0, "raw": "To find the correct target of the relation 'concept_politicianusholdsoffice_reverse' starting from the entity 'concept_politicaloffice_senate' (e3), we need to look for an edge where e3 is the target "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "I", "pred": "A", "score": 0.0, "raw": "The question asks for the correct target of the relation 'concept_atdate' starting from the entity 'concept_city_map'. However, in the provided edges, there is no entity named 'concept_city_map' and n"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To find the correct target of the relation 'concept_teamplaysagainstteam' starting from 'concept_sportsteam_seahawks' (e0), we need to look for edges in the format: e0 concept_teamplaysagainstteam eX,"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "E", "pred": "C", "score": 0.0, "raw": "To find the correct target of the relation 'concept_beveragemadefrombeverage' starting from 'concept_beverage_blends', we need to look for an edge in the format: e1 concept_beveragemadefrombeverage eX"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "A", "score": 0.0, "raw": "The entity 'concept_physicalaction_production' is not directly listed in the aliases, so we need to find it in the edges. However, the question asks for the target of the 'concept_atdate' relation sta"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "C", "score": 0.0, "raw": "To find the correct target of the relation 'concept_animalsuchasinvertebrate' starting from 'concept_crustacean_mollusks', we need to identify the node that represents 'concept_crustacean_mollusks' an"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "F", "pred": "H", "score": 0.0, "raw": "To solve this, we need to find the edge that starts from 'concept_jobposition_physician' (e93) and has the relation 'concept_professionistypeofprofession'. \n\nLooking through the edges, we find:\ne93 co"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "G", "score": 0.0, "raw": "To find the correct target of the relation 'concept_agriculturalproductcookedwithagriculturalproduct' starting from 'concept_food_cream' (e103), we need to look for an edge in the format: e103 concept"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To find the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from entity 'concept_sportsteam_utah_jazz' (e1), we need to look for edges where e1 is the target and the rel"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "A", "score": 1.0, "raw": "To solve this, we need to find the entity that is the target of the relation 'concept_countrylocatedingeopoliticallocation' starting from 'concept_country_tunisia'. However, 'concept_country_tunisia' "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "F", "pred": "C", "score": 0.0, "raw": "To find the correct target of the relation 'concept_agriculturalproductcontainchemical' starting from the entity 'concept_agriculturalproduct_green_tea', we need to look for an edge in the format: e37"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To find the correct target of the relation 'concept_athletehomestadium_reverse' starting from 'concept_stadiumoreventvenue_giants_stadium' (e1), we need to look for all the edges where e1 is the targe"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "G", "score": 0.0, "raw": "To find the correct target of the relation 'concept_atdate' starting from the entity 'concept_website_million', we need to identify the node that represents 'concept_website_million' and then look at "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_musicartistgenre_reverse' starting from 'concept_musicgenre_classic_rock', we need to look for the node that represents 'concept_musicgenre_classic_"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "A", "score": 0.0, "raw": "The node 'concept_physicalaction_states' is not directly listed in the aliases, so we need to find it by looking at the structure of the graph. We are looking for a node that has a 'concept_atdate' re"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "C", "pred": "A", "score": 0.0, "raw": "The entity 'concept_charactertrait_survey' is not directly listed in the aliases provided, so we need to find the corresponding node (eX) for 'concept_charactertrait_survey' in the graph. However, sin"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "I", "pred": "A", "score": 0.0, "raw": "The relation 'concept_istallerthan' is not present in the list of relations provided for the subgraph. Therefore, none of the options can be the correct target of this relation starting from 'concept_"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "H", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_personbelongstoorganization_reverse' starting from entity 'concept_politicalparty_college' (e1), we need to look for nodes that have an outgoing edg"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "F", "pred": "A", "score": 0.0, "raw": "To solve this, we need to identify the node that represents 'concept_sportsteam_michigan_state' and then find the 'concept_teamplaysagainstteam' relation from that node to another node, and finally ma"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "J", "score": 0.0, "raw": "To solve this, we need to find the node that represents 'concept_room_loft' and then look at its outgoing 'concept_furniturefoundinroom_reverse' relations to determine the correct target.\n\nFrom the al"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "B", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_athleteplaysforteam_reverse' starting from the entity 'concept_sportsteam_liverpool', we need to identify the node that represents 'concept_sportste"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_agentcollaborateswithagent' starting from entity 'concept_ceo_robert_iger', we need to identify the node that represents 'concept_ceo_robert_iger' a"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "B", "pred": "A", "score": 0.0, "raw": "The question asks for the correct target of the relation 'concept_agriculturalproductcomingfromvertebrate_reverse' starting from the entity 'concept_fish_trout'. However, in the provided graph, there "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "I", "pred": "A", "score": 0.0, "raw": "To solve this, we need to identify the node that represents 'concept_country_zimbabwe' and then find the target of the 'concept_countrylocatedingeopoliticallocation' relation from that node.\n\nHowever,"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "H", "score": 0.0, "raw": "To find the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from 'concept_sportsteam_timberwolves', we need to identify the node that represents 'concept_sportsteam_timb"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "A", "score": 1.0, "raw": "To solve this, we need to find the node that represents 'concept_room_suite' and then look for the 'concept_itemfoundinroom_reverse' relation from that node. The node 'concept_room_suite' is represent"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "adjacency_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_agentcreated' starting from the entity 'concept_city_link', we need to look for a relation in the description that starts from e20 (which is 'concep"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "A", "score": 1.0, "raw": "The relation 'concept_stadiumlocatedincity_reverse' indicates that the stadium is located in the city. From the provided description, we can see that e0 (concept_city_san_diego) points to e15 through "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "G", "score": 0.0, "raw": "To find the correct target of the relation 'concept_automobilemakerdealersincity' starting from 'concept_automobilemaker_nissan' (e0), we need to look for all the entities that e0 points to through th"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To find the correct target of the relation 'concept_plantrepresentemotion' starting from 'concept_plant_flowers' (e0), we need to look for all the nodes that e0 points to through this relation. From t"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "G", "score": 1.0, "raw": "To find the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from 'concept_sportsteam_tampa_bay_rays', we need to look for an edge where 'concept_sportsteam_tampa_bay_ray"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "C", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_organizationdissolvedatdate_reverse' starting from entity 'concept_month_march', we need to look for a relation that points to 'concept_month_march'"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "H", "pred": "H", "score": 1.0, "raw": "To find the correct target of the relation 'concept_worksfor_reverse' starting from 'concept_bank_general_electric', we need to look for an entity that has a 'concept_worksfor' relation pointing to 'c"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "F", "pred": "A", "score": 0.0, "raw": "To solve this, we need to find the entity that is the target of the relation 'concept_subpartof' starting from 'concept_museum_facilities'. However, 'concept_museum_facilities' is not directly listed "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "I", "pred": "J", "score": 0.0, "raw": "The question asks for the target of the relation 'concept_personmovedtostateorprovince' starting from the entity 'concept_person_brian'. However, in the provided graph, there is no mention of the enti"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To find the correct target of the relation 'concept_arthropodcalledarthropod_reverse' starting from entity 'concept_crustacean_crab' (e2), we need to look for all the entities that point to e2 through"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "E", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_politicianusmemberofpoliticalgroup' starting from 'concept_politicianus_al_gore' (e24), we need to look for a relation that points from e24 to one o"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "H", "pred": "H", "score": 1.0, "raw": "The question asks for the target of the relation 'concept_televisionstationincity_reverse' starting from the entity 'concept_city_santa_barbara_de_nexe'. However, in the provided graph, there is no re"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "F", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_professionistypeofprofession' starting from the entity 'concept_profession_lawyers', we need to look for a relation in the description that starts f"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "nl", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "C", "pred": "A", "score": 0.0, "raw": "To solve this, we need to find the edges where the relation is 'concept_furniturefoundinroom_reverse' and the target is 'concept_officebuildingroom_accommodations'. However, the alias for 'concept_off"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "E", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_statelocatedingeopoliticallocation' starting from 'concept_stateorprovince_florida', we need to look for an edge where the source is 'e0' (which is "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_animalistypeofanimal' starting from entity 'concept_mammal_elk', we need to identify the node that represents 'concept_mammal_elk' and then look for"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "A", "score": 0.0, "raw": "To solve this, we need to find the node that represents 'concept_musicalbum_stage' and then look for the 'concept_mutualproxyfor_reverse' relation starting from this node. However, 'concept_musicalbum"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "E", "pred": "J", "score": 0.0, "raw": "To find the correct target of the relation 'concept_atdate' starting from entity 'concept_country_egypt' (e0), we need to look for edges where the source is 'e0' and the relation is 'concept_atdate'. "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "D", "pred": "H", "score": 0.0, "raw": "The question asks for the correct target of the relation 'concept_countrycurrency' starting from the entity 'concept_country_jamaica'. However, in the provided graph, there is no direct edge with the "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "F", "score": 0.0, "raw": "To solve this, we need to find an edge where the relation is 'concept_atlocation_reverse' and the target is 'concept_website_south'. However, 'concept_website_south' is not listed in the aliases provi"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "J", "score": 1.0, "raw": "The question asks for the correct target of the relation 'concept_worksfor_reverse' starting from the entity 'concept_governmentorganization_navy'. However, in the provided graph, there is no edge wit"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "C", "pred": "E", "score": 0.0, "raw": "To find the correct target of the relation 'concept_animalistypeofanimal_reverse' starting from entity 'concept_mammal_horses' (e0), we need to look for edges where 'e0' is the target and the relation"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to find the correct target of the relation 'concept_clothingtogowithclothing_reverse' starting from the entity 'concept_clothing_skirts'. In the graph, 'concept_clothing_skirts'"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "I", "score": 0.0, "raw": "To solve this, we need to find the node that represents 'concept_vegetable_spinach' and then look for the 'concept_agriculturalproductcookedwithagriculturalproduct_reverse' relation pointing to it. Ho"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "D", "pred": "A", "score": 0.0, "raw": "To find the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from entity 'concept_sportsteam_red_wings' (e1), we need to look for edges where e1 is the target and the rel"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "json", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "D", "score": 0.0, "raw": "To find the correct target of the relation 'concept_agentcreated' starting from entity 'concept_city_link', we need to look for a line in the graph that starts with `e24 concept_agentcreated+>eX` wher"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "A", "score": 1.0, "raw": "The relation 'concept_stadiumlocatedincity_reverse' indicates that we are looking for a stadium or event venue that is located in the city of San Diego. From the provided aliases, we can see that the "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "H", "score": 0.0, "raw": "To find the correct target of the relation 'concept_automobilemakerdealersincity' starting from 'concept_automobilemaker_nissan' (e0), we need to look for the nodes that are directly connected to e0 w"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the entities that are directly connected to 'concept_plant_flowers' (e0) through the 'concept_plantrepresentemotion' relation. From the given graph, we can see the f"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "E", "score": 0.0, "raw": "To find the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from 'concept_sportsteam_tampa_bay_rays', we need to identify the node that represents 'concept_sportsteam_ta"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "C", "pred": "F", "score": 0.0, "raw": "To solve this, we need to find the entity that has a 'concept_organizationdissolvedatdate_reverse' relation starting from 'concept_month_march'. This means we are looking for an entity that was dissol"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "H", "pred": "H", "score": 1.0, "raw": "To solve this, we need to find the entity that has a 'concept_worksfor' relation pointing to 'concept_bank_general_electric' (e14). The relation 'concept_worksfor_reverse' indicates that the direction"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "F", "pred": "H", "score": 0.0, "raw": "To solve this, we need to identify the entity 'concept_museum_facilities' and then find the correct target of the 'concept_subpartof' relation from it. However, 'concept_museum_facilities' is not dire"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "I", "pred": "H", "score": 0.0, "raw": "The relation 'concept_personmovedtostateorprovince' is not directly present in the provided graph. However, we can infer the correct target by looking at the relations that are present and might indic"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the entity that is the target of the 'concept_arthropodcalledarthropod_reverse' relation starting from 'concept_crustacean_crab'. This means we are looking for an en"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "E", "pred": "D", "score": 0.0, "raw": "To find the correct target of the relation 'concept_politicianusmemberofpoliticalgroup' starting from 'concept_politicianus_al_gore' (e24), we need to look for a direct edge labeled 'concept_politicia"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "H", "pred": "H", "score": 1.0, "raw": "The relation 'concept_televisionstationincity_reverse' indicates that the target entity is a television station that has its location in the city specified by the source entity. In the given graph, th"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "F", "pred": "G", "score": 0.0, "raw": "To solve this, we need to find the 'concept_professionistypeofprofession' relation starting from 'concept_profession_lawyers'. In the graph, 'concept_profession_lawyers' is represented by e7. The rela"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "dfs_serial", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "J", "score": 1.0, "raw": "To find the correct target of the relation 'concept_agentcreated' starting from entity 'concept_city_link', we need to look for an edge in the provided edge records where the source (src) is 'e24' (wh"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "A", "score": 1.0, "raw": "To solve this, we need to find the edge with the relation `concept_stadiumlocatedincity_reverse` where the source is `e0` (which is `concept_city_san_diego` according to the aliases). This relation in"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To find the correct target of the relation 'concept_automobilemakerdealersincity' starting from 'concept_automobilemaker_nissan' (e0), we need to look for edges in the provided list that have the rela"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To find the correct target of the relation 'concept_plantrepresentemotion' starting from entity 'concept_plant_flowers' (e0), we need to look for all the edges where the source is e0 and the relation "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "J", "score": 0.0, "raw": "To find the correct target of the relation 'concept_teamplaysagainstteam_reverse' starting from entity 'concept_sportsteam_tampa_bay_rays', we need to look for an edge where the source is 'concept_spo"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "C", "pred": "D", "score": 0.0, "raw": "To find the correct target of the relation 'concept_organizationdissolvedatdate_reverse' starting from entity 'concept_month_march' (e4), we need to look for an edge where e4 is the target and the rel"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "H", "pred": "H", "score": 1.0, "raw": "To find the correct target of the relation 'concept_worksfor_reverse' starting from 'concept_bank_general_electric', we need to identify the entity that 'concept_bank_general_electric' (e43) is the ta"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "F", "pred": "A", "score": 0.0, "raw": "To solve this, we need to find the node that represents 'concept_museum_facilities' and then look for the 'concept_subpartof' relation starting from that node.\n\nHowever, 'concept_museum_facilities' is"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "I", "pred": "A", "score": 0.0, "raw": "The question asks for the target of the relation 'concept_personmovedtostateorprovince' starting from the entity 'concept_person_brian'. However, in the provided edge records, there is no mention of t"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "C", "pred": "A", "score": 0.0, "raw": "To solve this, we need to find the entity that has a 'concept_arthropodcalledarthropod' relation with 'concept_crustacean_crab' (e2). We are looking for an edge where the target is e2 and the relation"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "E", "pred": "J", "score": 0.0, "raw": "To solve this, we need to find an edge that starts from 'concept_politicianus_al_gore' (e24) and has the relation 'concept_politicianusmemberofpoliticalgroup'. However, there is no direct edge in the "}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "H", "pred": "H", "score": 1.0, "raw": "The relation 'concept_televisionstationincity_reverse' indicates that the target entity is a television station located in the city of 'concept_city_santa_barbara_de_nexe'. However, the edge records p"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "I", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "E", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "A", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "C", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "D", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "G", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
+{"model": "Qwen/Qwen2.5-72B-Instruct", "task": "lp_mc", "ds": "nell", "enc": "pointer", "gold": "J", "pred": "NA", "score": 0.0, "raw": "[ERROR RateLimitError]"}
