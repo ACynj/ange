@@ -1,0 +1,900 @@
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13", "pred": "n13", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n6", "pred": "n6", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n2, n6", "pred": "n2,n6", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11, n14, n4, n5", "pred": "n11,n14,n4,n5", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n2, n6", "pred": "n2,n6", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n6", "pred": "n0,n6", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n14, n2, n4", "pred": "n14,n2,n4", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n2, n6", "pred": "n2,n6", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n6", "pred": "n0,n6", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n16, n9", "pred": "n16,n9", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n17", "pred": "n17", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13", "pred": "n13", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n14, n15, n4, n5", "pred": "n14,n15,n4,n5", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n14", "pred": "n14", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12, n4", "pred": "n12,n4", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n7", "pred": "n7", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n19", "pred": "n19", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n14", "pred": "n14", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n19, n6, n9", "pred": "n19,n6,n9", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n5", "pred": "n1,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13", "pred": "n13", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n19", "pred": "n19", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12", "pred": "n12", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11, n3, n8, n9", "pred": "n11,n15,n3,n8,n9", "score": 0.22222222222222224}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n10", "pred": "n1,n10,n15", "score": 0.4}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n14", "pred": "n14", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10", "pred": "n10", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n19", "pred": "n19", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n15, n6", "pred": "n12,n15,n6", "score": 0.4}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n7", "pred": "n7", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n14, n18, n6", "pred": "n14,n18,n6", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n15, n6", "pred": "n12,n15,n6", "score": 0.4}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n11, n16", "pred": "n1,n11,n16", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10, n14", "pred": "n10,n14", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n18", "pred": "n18", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n9", "pred": "n9", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10, n12", "pred": "n10,n12", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n14", "pred": "n14", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n15, n6", "pred": "n12,n15,n6", "score": 0.4}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n12", "pred": "n1,n12", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n5", "pred": "n0,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12, n17", "pred": "n12,n17", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12, n13, n18", "pred": "n12,n13,n18", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n18, n4", "pred": "n18,n4", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n15, n3", "pred": "n15,n3", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n17", "pred": "n17", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n7", "pred": "n7", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n16, n2, n9", "pred": "n16,n2,n9", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n18, n5", "pred": "n18,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n15, n6", "pred": "n13,n15,n6", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n15, n6", "pred": "n13,n15,n6", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n15, n6, n8", "pred": "n13,n15,n6,n8", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0", "pred": "n0", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n6", "pred": "n6", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n3, n8", "pred": "n3,n8", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12, n15", "pred": "n12,n15", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n14, n19", "pred": "n14,n19", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n16", "pred": "n0,n16", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n2", "pred": "n2", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n8", "pred": "n13,n8", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n15, n3", "pred": "n15,n3", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n3, n8", "pred": "n3,n8", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11", "pred": "n11", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n4, n5", "pred": "n4,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1", "pred": "n1", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12, n4", "pred": "n12,n4", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n2", "pred": "n2", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n3", "pred": "n3", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n3", "pred": "n1,n3", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n14, n5, n7", "pred": "n14,n5,n7", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n3, n4", "pred": "n3,n4", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11, n2, n6", "pred": "n11,n2,n6", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n3, n8", "pred": "n1,n3,n8", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n19", "pred": "n19", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n3", "pred": "n1,n3", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n18", "pred": "n13,n18", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n18, n2", "pred": "n18,n2", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n14, n4", "pred": "n14,n4", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n2", "pred": "n2", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n4", "pred": "n4", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10, n12, n13, n9", "pred": "n10,n12,n13,n9", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n19", "pred": "n13,n19", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10, n5", "pred": "n10,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11, n19, n5", "pred": "n11,n19,n5", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n2, n3", "pred": "n2,n3", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n18", "pred": "n18", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n8", "pred": "n8", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n15", "pred": "n15", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n2", "pred": "n0,n2", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n18, n2", "pred": "n18,n2", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n13, n6", "pred": "n0,n13,n6", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n2", "pred": "n2", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n19", "pred": "n19", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n19", "pred": "n1,n19", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n7", "pred": "n7", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n16, n18, n2", "pred": "n1,n16,n18,n2", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n8", "pred": "n8", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n16, n2", "pred": "n16,n2", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n17, n6, n8", "pred": "n17,n6,n8", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11", "pred": "n11", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n5, n6", "pred": "n5,n6", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n4", "pred": "n4", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n16, n17, n6", "pred": "n1,n16,n6", "score": 0.28571428571428575}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n13, n9", "pred": "n0,n13,n9", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n11", "pred": "n0,n11", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11, n16", "pred": "n11,n16", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n14, n18, n8", "pred": "n0,n14,n18,n8", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11, n16", "pred": "n11,n16", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n4, n6, n9", "pred": "n1,n4,n6,n9", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10, n18", "pred": "n10,n18", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n18, n8", "pred": "n18,n8", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11, n16", "pred": "n11,n16", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n14, n2, n7", "pred": "n13,n14,n2,n7", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n16", "pred": "n16", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n19, n7", "pred": "n19,n7", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n14, n2, n7", "pred": "n13,n14,n2,n7", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n14, n6", "pred": "n14,n6", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n19", "pred": "n19", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n2, n8", "pred": "n13,n2,n8", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n4", "pred": "n4", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13", "pred": "n13", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12, n5", "pred": "n12,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n2", "pred": "n13,n2", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10, n18, n2, n3", "pred": "n10,n18,n2,n3", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n15, n16, n18, n7", "pred": "n15,n16,n18,n7", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12, n5", "pred": "n12,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n8", "pred": "n13,n8", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n2, n7", "pred": "n0,n2,n7", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12, n5", "pred": "n12,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n17, n7", "pred": "n17,n7", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12, n2, n5, n6", "pred": "n12,n2,n5,n6", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n7", "pred": "n1,n7", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n3", "pred": "n13,n3", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n5", "pred": "n13,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n7", "pred": "n7", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10, n18, n9", "pred": "n10,n18,n9", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n19", "pred": "n1,n19", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n17, n19", "pred": "n17,n19", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n9", "pred": "n9", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n2, n5", "pred": "n2,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n2", "pred": "n2", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n7", "pred": "n13,n7", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12, n16", "pred": "n12,n16", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12, n16", "pred": "n12,n16", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0", "pred": "n0", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n13", "pred": "n1,n13", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n18, n2", "pred": "n18,n2", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n17", "pred": "n13,n17", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0", "pred": "n0", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n16, n5, n9", "pred": "n16,n5,n9", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n18", "pred": "n18", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n3", "pred": "n3", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10", "pred": "n10", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n17, n19, n3", "pred": "n0,n17,n19", "score": 0.28571428571428575}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11, n3", "pred": "n11,n3", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0", "pred": "n0", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n14, n19", "pred": "n13,n14,n19", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10, n17", "pred": "n10,n17", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11", "pred": "n11", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n9", "pred": "n9", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n16", "pred": "n16", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n19", "pred": "n1,n19", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n17, n4, n5", "pred": "n17,n4,n5", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n8", "pred": "n0,n8", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10, n17", "pred": "n10,n17", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n14, n19", "pred": "n13,n14,n19", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n14", "pred": "n14", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n7, n9", "pred": "n7,n9", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n19", "pred": "n19", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n14, n19", "pred": "n13,n14,n19", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n15, n16", "pred": "n15,n16", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n3, n4", "pred": "n3,n4", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n7", "pred": "n7", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n2, n4", "pred": "n2,n4", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10, n14, n19, n5, n9", "pred": "n10,n14,n19,n5", "score": 0.22222222222222224}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0", "pred": "n0", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10, n14, n19, n5, n9", "pred": "n10,n14,n19,n5", "score": 0.22222222222222224}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n4, n9", "pred": "n13,n4,n9", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0", "pred": "n0", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0", "pred": "n0", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n8", "pred": "n8", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11, n6", "pred": "n11,n6", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n18", "pred": "n13,n18", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10, n3, n5", "pred": "n10,n3,n5", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n18", "pred": "n13,n18", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n15, n16, n18, n8, n9", "pred": "n15,n16,n18,n8,n9", "score": 0.20000000000000004}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n5", "pred": "n5", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n1, n11, n4", "pred": "n0,n1,n11,n4", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n16, n17, n2, n4", "pred": "n16,n17,n2", "score": 0.28571428571428575}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n12", "pred": "n1,n12", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n17", "pred": "n17", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1", "pred": "n1", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n18, n2", "pred": "n18,n2", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13", "pred": "n13", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13", "pred": "n13", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n6, n8", "pred": "n6,n8", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n16", "pred": "n16", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n1, n5", "pred": "n1,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n11, n15", "pred": "n11,n15", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n10, n3", "pred": "n0,n10,n3", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10", "pred": "n10", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n10", "pred": "n10", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n3, n9", "pred": "n3,n9", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0", "pred": "n0", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n16", "pred": "n16", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n15", "pred": "n15", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n13, n17, n18, n6", "pred": "n13,n17,n18,n6", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n0, n12", "pred": "n0,n12", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n2", "pred": "n2", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "nbr", "gold": "n12", "pred": "n12", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n20", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n14", "pred": "n14", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n0, n24", "pred": "n0,n24", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n2, n25", "pred": "n2,n25", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n0, n24", "pred": "n0,n24", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n1, n19, n23, n26, n5", "pred": "n1,n19,n23,n26,n5", "score": 0.20000000000000004}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n0, n19, n6, n8", "pred": "n0,n19,n6,n8", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n1, n14, n3", "pred": "n1,n14,n3", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n16", "pred": "n16", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n22, n5", "pred": "n22,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n12", "pred": "n12", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n16", "pred": "n16", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n0, n17", "pred": "n0,n17", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n18", "pred": "n18", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n4", "pred": "n4", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n4", "pred": "n4", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n23, n25, n7", "pred": "n23,n25,n7", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n12, n16, n26, n3", "pred": "n12,n16,n26", "score": 0.28571428571428575}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n23", "pred": "n23", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n11, n6", "pred": "n11,n6", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n12, n16, n26, n3", "pred": "n12,n16,n26", "score": 0.28571428571428575}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n17", "pred": "n17", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n18, n25, n3", "pred": "n18,n25,n3", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n10, n17, n6", "pred": "n10,n17,n6", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n2, n20, n28", "pred": "n2,n20,n28", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n28", "pred": "n28", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n26", "pred": "n26,n27,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n6", "pred": "n6", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n16, n19, n29", "pred": "n16,n19,n29", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n15", "pred": "n15", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n20, n9", "pred": "n20,n9", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n22, n7", "pred": "n22,n7", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n20, n24, n26", "pred": "n20,n24", "score": 0.4}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n20", "pred": "n20", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n22", "pred": "n22", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n10, n13, n21", "pred": "n10,n13,n21", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n0, n17, n18, n6", "pred": "n0,n17,n18,n6", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n10, n13, n21", "pred": "n10,n13,n21", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n16", "pred": "n16", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n15, n27, n8", "pred": "n15,n27,n8", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n24", "pred": "n24", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n14", "pred": "n14", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n17, n3", "pred": "n17,n3", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n23, n28, n7", "pred": "n23,n28,n7", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n24", "pred": "n24", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n11, n13, n3, n5", "pred": "n11,n13,n3,n5", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n10, n11, n28, n5", "pred": "n10,n11,n28,n5", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n18", "pred": "n18", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n11, n16, n2, n3", "pred": "n1,n11,n16,n2,n3", "score": 0.22222222222222224}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n1, n16", "pred": "n1,n16", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n19", "pred": "n19", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n23, n6", "pred": "n23,n6", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n10, n22, n9", "pred": "n10,n18,n22,n9", "score": 0.28571428571428575}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n18", "pred": "n18", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n14", "pred": "n14", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n6", "pred": "n6", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n13", "pred": "n13", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n1, n11", "pred": "n1,n11", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n0, n1", "pred": "n0,n1", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n16, n5", "pred": "n16,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n0, n2", "pred": "n0,n2", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n14, n7", "pred": "n14,n7", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n13, n27", "pred": "n13,n27", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n28, n4", "pred": "n28,n4", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n15, n27", "pred": "n15,n27", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n17, n20", "pred": "n17,n20", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n1, n11", "pred": "n1,n11", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n10, n11, n2", "pred": "n10,n11,n2", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n9", "pred": "n9", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n19", "pred": "n19", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n14", "pred": "n14", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n4, n7", "pred": "n4,n7", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n5", "pred": "n5", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n15", "pred": "n15", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n16, n20", "pred": "n16,n20", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n2", "pred": "n2", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n5", "pred": "n5", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n16, n20", "pred": "n16,n20", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n29", "pred": "n29", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n15, n3", "pred": "n15,n3", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n13", "pred": "n13", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n0, n18, n21", "pred": "n0,n18,n21", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n5", "pred": "n5", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n29", "pred": "n29", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n19, n26", "pred": "n19,n26", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n1, n3", "pred": "n1,n3", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n17", "pred": "n17", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n23", "pred": "n23", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n5", "pred": "n5", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n6", "pred": "n6", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n17", "pred": "n17", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n21, n29", "pred": "n21,n29", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n4", "pred": "n4", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n21", "pred": "n21", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n27, n29, n5", "pred": "n27,n29,n5", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n23, n3", "pred": "n23,n3", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n26", "pred": "n26", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n10, n23, n26", "pred": "n10,n23,n26", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n1, n15, n25", "pred": "n1,n15,n25", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n12", "pred": "n12", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n0, n26, n29", "pred": "n0,n26,n29", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n21, n25, n27", "pred": "n21,n25,n27", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n18, n4", "pred": "n18,n4", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n11", "pred": "n11", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n10", "pred": "n10", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n19", "pred": "n19", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n27, n8", "pred": "n27,n8", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n13", "pred": "n13", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n11, n15, n16, n27", "pred": "n11,n15,n16,n27", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n10, n7", "pred": "n10,n7", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n25, n29", "pred": "n25,n29", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n24, n4", "pred": "n24,n4", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n4", "pred": "n4", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n14, n17", "pred": "n14,n17", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n21, n23, n3", "pred": "n21,n23,n3", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "nbr", "gold": "n11, n3, n7", "pred": "n11,n3,n7", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n30", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n26, n39", "pred": "n26,n39", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n16, n17, n39, n6", "pred": "n16,n17,n39,n6", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n13, n22, n24", "pred": "n13,n22", "score": 0.4}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n10, n15, n23, n38", "pred": "n10,n15,n23,n29,n38", "score": 0.22222222222222224}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n13, n34", "pred": "n13,n34", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n30, n37", "pred": "n30,n37", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n2, n3, n4", "pred": "n2,n3,n4", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n23, n3", "pred": "n23,n3", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n7", "pred": "n7", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n0, n25", "pred": "n0,n25", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n4", "pred": "n4", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n0, n4", "pred": "n0,n4", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n21, n35, n38, n4, n6", "pred": "n21,n35,n4,n6,n38", "score": 0.20000000000000004}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n23", "pred": "n23", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n37", "pred": "n37", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n20, n32, n33, n6", "pred": "n20,n32,n33,n6", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n36", "pred": "n36", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n8", "pred": "n8", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n2, n33", "pred": "n2,n33", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n25", "pred": "n25", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n23", "pred": "n23", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n24, n5", "pred": "n24,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n14, n16, n21, n25", "pred": "n14,n16,n21,n25,n29", "score": 0.22222222222222224}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n30, n7", "pred": "n30,n7", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n1, n13", "pred": "n1,n13", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n10, n22, n24, n5", "pred": "n10,n22,n24,n5", "score": 0.25}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n16", "pred": "n16", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n18", "pred": "n18", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n24", "pred": "n24,n31", "score": 0.6666666666666666}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n11", "pred": "n11", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n0", "pred": "n0,n10,n18", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n21", "pred": "n21,n29", "score": 0.6666666666666666}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n30, n7", "pred": "n30,n7", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n14, n16, n21, n25", "pred": "n14,n16,n21,n25,n29", "score": 0.22222222222222224}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n11, n23", "pred": "n11,n23", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n17", "pred": "n17", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n28", "pred": "n28", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n11, n15, n27", "pred": "n11,n15,n27", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n14, n28", "pred": "n14,n28", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n2, n22", "pred": "n2,n22", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n26", "pred": "n26", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n1", "pred": "n1", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n33, n9", "pred": "n33,n37,n9", "score": 0.4}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n12, n21, n33", "pred": "n12,n21,n33", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n10, n23, n37", "pred": "n10,n23,n37", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n16, n17, n18, n27", "pred": "n16,n17,n18,n27,n29,n7", "score": 0.2}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n29", "pred": "n29", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n1, n21", "pred": "n1,n21", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n20", "pred": "n20", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n34, n5", "pred": "n34,n5", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n24", "pred": "n24", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n21", "pred": "n21", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n15", "pred": "n15", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n10", "pred": "n10", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n0", "pred": "n0", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n20, n25", "pred": "n20,n25", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n21, n38", "pred": "n21,n38", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n37", "pred": "n37", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n10, n20, n37", "pred": "n10,n20,n37", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "YES", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n23, n36", "pred": "n23,n36", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n21", "pred": "n21", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n22, n26, n32", "pred": "n22,n26,n32", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n22, n39", "pred": "n22,n39", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n25, n27, n7", "pred": "n25,n7,n27", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n22", "pred": "n22", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n34", "pred": "n34", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n1, n2, n37", "pred": "n1,n2,n37", "score": 0.3333333333333333}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n13, n18, n25, n37", "pred": "n18,n25,n37", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n34", "pred": "n34", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n24, n28", "pred": "n24,n28", "score": 0.5}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "nbr", "gold": "n0", "pred": "n0", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach1", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "NO", "score": 0.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach2", "gold": "YES", "pred": "YES", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "NO", "pred": "NO", "score": 1.0}
+{"arm": "pointer2_pad", "size": "n40", "task": "reach3", "gold": "YES", "pred": "NO", "score": 0.0}
