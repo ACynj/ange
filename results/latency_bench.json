@@ -1,0 +1,114 @@
+[
+ {
+  "enc": "edge_list",
+  "n": 20,
+  "prompt_tokens": 1204,
+  "latency_s": 0.715,
+  "out_tokens": 64
+ },
+ {
+  "enc": "adjacency_list",
+  "n": 20,
+  "prompt_tokens": 898,
+  "latency_s": 0.714,
+  "out_tokens": 64
+ },
+ {
+  "enc": "nl",
+  "n": 20,
+  "prompt_tokens": 1838,
+  "latency_s": 0.719,
+  "out_tokens": 64
+ },
+ {
+  "enc": "json",
+  "n": 20,
+  "prompt_tokens": 3688,
+  "latency_s": 0.73,
+  "out_tokens": 64
+ },
+ {
+  "enc": "dfs_serial",
+  "n": 20,
+  "prompt_tokens": 1635,
+  "latency_s": 0.717,
+  "out_tokens": 64
+ },
+ {
+  "enc": "sog",
+  "n": 20,
+  "prompt_tokens": 201,
+  "latency_s": 0.715,
+  "out_tokens": 64
+ },
+ {
+  "enc": "pointer_v1",
+  "n": 20,
+  "prompt_tokens": 1725,
+  "latency_s": 0.718,
+  "out_tokens": 64
+ },
+ {
+  "enc": "pointer_v2",
+  "n": 20,
+  "prompt_tokens": 1469,
+  "latency_s": 0.715,
+  "out_tokens": 64
+ },
+ {
+  "enc": "edge_list",
+  "n": 40,
+  "prompt_tokens": 2450,
+  "latency_s": 0.719,
+  "out_tokens": 64
+ },
+ {
+  "enc": "adjacency_list",
+  "n": 40,
+  "prompt_tokens": 1772,
+  "latency_s": 0.716,
+  "out_tokens": 64
+ },
+ {
+  "enc": "nl",
+  "n": 40,
+  "prompt_tokens": 3724,
+  "latency_s": 0.728,
+  "out_tokens": 64
+ },
+ {
+  "enc": "json",
+  "n": 40,
+  "prompt_tokens": 7406,
+  "latency_s": 0.747,
+  "out_tokens": 64
+ },
+ {
+  "enc": "dfs_serial",
+  "n": 40,
+  "prompt_tokens": 3314,
+  "latency_s": 0.722,
+  "out_tokens": 64
+ },
+ {
+  "enc": "sog",
+  "n": 40,
+  "prompt_tokens": 302,
+  "latency_s": 0.707,
+  "out_tokens": 64
+ },
+ {
+  "enc": "pointer_v1",
+  "n": 40,
+  "prompt_tokens": 3483,
+  "latency_s": 0.726,
+  "out_tokens": 64
+ },
+ {
+  "enc": "pointer_v2",
+  "n": 40,
+  "prompt_tokens": 2971,
+  "latency_s": 0.722,
+  "out_tokens": 64
+ }
+]

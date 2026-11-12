@@ -1,0 +1,14 @@
+{
+ "frozen": {
+  "mean_share": 0.009332444932725694,
+  "max_head_share": 0.04052734375,
+  "chance": 0.012576546411385003,
+  "n_probes": 18
+ },
+ "lora_pointer2": {
+  "mean_share": 0.006940205891927083,
+  "max_head_share": 0.03564453125,
+  "chance": 0.012576546411385003,
+  "n_probes": 18
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "ident_hist": {
+  "2": 14,
+  "3": 90
+ },
+ "total": 104,
+ "records": {
+  "v2 record \"n3 -r1-> n17\"": 9,
+  "v2 direction \"-r1->\"": 3,
+  "v1 record \"EDGE rel=r1 src=n3 tgt=n17\"": 11,
+  "v1 key \"src=\"": 2,
+  "edge-list record \"n3 r1 n17\"": 7,
+  "QUERY template \"QUERY: n3 -r1-> ?\"": 9
+ }
+}
