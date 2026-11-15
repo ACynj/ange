@@ -1,0 +1,600 @@
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 2, "score": 0.0, "raw": "The entity that is the correct target of the relation 'languages_spoken,_written,_or_signed' starting from entity 'John_Locke' in this graph is:\n\n2. E"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "To determine the correct genre for John Mayer, we need to look for a triple where the head is 'John_Mayer' and the relation is 'genre'. However, based"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 6, "score": 0.0, "raw": "To determine the correct genre for Shannon Leto, we need to look for any direct or indirect connections in the provided triples that link Shannon Leto"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": null, "score": 0.0, "raw": "After reviewing the provided triples, there is no triple that directly links the entity 'John_Muir' with the relation 'languages_spoken,_written,_or_s"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct information about an entity named 'Jordan' or any relation 'member_of' starting from 'Jordan'. The t"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 4, "score": 1.0, "raw": "Based on the provided triples, the entity 'Lana Del Rey' is associated with the relation 'field_of_work' directed to 'musical_composition'.\n\nLana_Del_"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Sweden'. Therefore, based on the provided tr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": 10, "score": 1.0, "raw": "Based on the provided triples, there is no direct triple that shows 'Immanuel_Kant' influenced by any of the entities listed. However, in historical p"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": null, "score": 0.0, "raw": "After reviewing the provided triples, there is no direct triple that links Henri_Poincar\u00e9 to any religion. The options provided all suggest Christiani"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple indicating that Demi Lovato's residence is any of the given options. The triples mainly focus"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 3, "score": 0.0, "raw": "To determine the correct record label for Chris Martin, I'll look through the provided triples for any mention of Chris Martin and the 'record_label' "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Denmark'. Therefore, based on the provided t"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": null, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Monaco'. Therefore, based on the provided tr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": 3, "score": 1.0, "raw": "To determine the correct target of the relation 'country_of_citizenship' starting from the entity 'Debbie_Reynolds', I will look through the provided "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Albania'. Therefore, based on the provided t"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct information about Henri_Poincar\u00e9 being a member of any specific organization. The information given "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct information linking the entity 'Ukraine' to any of the given options through the 'member_of' relatio"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 2, "score": 0.0, "raw": "Based on the provided triples, the entity that is influenced by John Locke is David Hume, as indicated by the triple (David_Hume, influenced_by, John_"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "In the provided triples, there is no direct triple that links 'Friedrich_Engels' to any country of citizenship. The question seems to have an error in"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Estonia'. There are no triples that mention "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "To determine the correct genre for Teena Marie, we need to look for a triple where the head is 'Teena_Marie' and the relation is 'genre'. However, the"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": null, "score": 0.0, "raw": "After checking the provided triples, there is no triple starting with the entity 'Alexander_Emanuel_Agassiz' and the relation 'languages_spoken,_writt"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 1, "score": 0.0, "raw": "After checking the provided triples, there is no direct triple that links 'Eddie_Money' to a 'place_of_death'. The given options all list 'Rome', 'G\u00f6t"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": null, "score": 0.0, "raw": "The given triples do not include any information about the entity 'Max_Born' or the organization 'Organization_for_Security_and_Co-operation_in_Europe"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": null, "score": 0.0, "raw": "To determine the correct answer, we need to find a triple in the given knowledge graph that starts with the entity 'Tyrese_Gibson' and has the relatio"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Estonia'. There are no triples that mention "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": 1, "score": 0.0, "raw": "Renaud is not directly mentioned in the provided triples. However, based on the pattern and the options provided, which are all related to occupations"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": null, "score": 0.0, "raw": "The given triples do not contain any information related to the diplomatic relations of France with other countries. Therefore, based on the provided "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": 10, "score": 1.0, "raw": "To determine the correct target of the relation 'country' starting from the entity 'Epic' in this graph, we need to look for a triple where the head i"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": null, "score": 0.0, "raw": "In the provided triples, there is no direct triple that links 'Edgar_Allan_Poe' to the relation 'languages_spoken,_written,_or_signed'. Therefore, bas"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "Based on the provided triples, there is no direct triple that links 'Amos_Oz' to the 'country_of_citizenship' relation. However, Amos Oz is a well-kno"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "Based on the provided triples, there is no direct triple stating that Edgar Allan Poe has the relation 'country_of_citizenship'. However, from histori"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct information linking the entity 'Bulgaria' with any of the given options through the 'member_of' rela"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information about Israel having a diplomatic relation with any of the provided options. Therefore, based on the i"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information related to the diplomatic relations of Israel with any of the listed countries. Therefore, based on t"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": null, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links 'Vladimir_Lenin' to an 'occupation'. The triples provided do not contain informati"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 0, "score": 0.0, "raw": "In the given knowledge graph, there is no direct triple that links 'Amos_Oz' to any 'ethnic_group'. The triples provided do not contain information ab"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Norway'. Therefore, based on the provided tr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information related to the 'diplomatic_relation' starting from the entity 'Republic_of_the_Congo'. Therefore, bas"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information related to the diplomatic relations of Denmark. The provided options include Denmark itself, which wo"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": null, "score": 0.0, "raw": "The given triples do not include any information about the entity 'John_Muir' or his religion. Therefore, based on the provided information, we cannot"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": null, "score": 0.0, "raw": "The given triples do not include any information about Massimo Bontempelli's place of death. Therefore, based on the provided information, it is not p"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information related to the 'diplomatic_relation' or the entity 'Republic_of_the_Congo'. Therefore, based on the p"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": null, "score": 0.0, "raw": "After reviewing the provided triples, I couldn't find any triple that directly links Justin Timberlake to an 'instrument' through the 'instrument' rel"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Israel'. Therefore, based on the provided tr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": 5, "score": 0.0, "raw": "To determine the correct target of the relation 'country_of_citizenship' starting from the entity 'Hugo_Grotius', we need to look for a triple in the "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 3, "score": 0.0, "raw": "Based on the provided triples, the entity 'Robbie Robertson' is associated with the genre 'blues'.\n\nRobbie_Robertson, genre, blues.\n\nANSWER: 3"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links 'Estonia' with the 'member_of' relation to any of the given options. The knowledge"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "To determine the correct genre for Trent Reznor, I'll look through the provided triples to find a relation where the head is 'Trent_Reznor' and the re"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 0, "score": 0.0, "raw": "After checking the provided triples, there is no triple that directly links 'Carole_King' to a 'religion'. Therefore, based on the information given, "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 1, "score": 0.0, "raw": "To determine the correct answer, we need to look for a triple in the given knowledge graph that starts with the entity 'John_Lydon' and has the relati"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 10, "score": 0.0, "raw": "To determine the correct occupation of Joni Mitchell, I will look for the relevant triple in the provided data where the head is Joni Mitchell and the"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": null, "score": 0.0, "raw": "After checking the provided triples, there is no triple that starts with the entity 'Kinky_Friedman' and has the relation 'languages_spoken,_written,_"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "Based on the provided triples, there is no direct triple that links Igor_Stravinsky to a genre. However, Igor_Stravinsky is known for his contribution"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 0, "score": 0.0, "raw": "Unfortunately, the provided knowledge graph does not contain any information about Henri Poincar\u00e9 or the organizations listed. The graph focuses on en"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "In the given triples, there is no direct triple stating that Ayn Rand was educated at any specific university. However, based on historical informatio"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 4, "score": 1.0, "raw": "Based on the provided triples, there is no direct triple that links Marvin Gaye to a genre. However, given the context and the options provided, Marvi"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 0, "score": 0.0, "raw": "After reviewing the provided triples, there is no direct triple that links 'Ani_Lorak' to a 'genre'. Therefore, based on the information given, we can"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "In the provided triples, there is no direct mention of an entity named 'Leopold_von_Ranke'. However, there is an entity named 'Nicolae_Iorga' who is a"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or any direct connections between Germany and the listed op"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": 2, "score": 0.0, "raw": "From the given triples, we can see that Daniel_Lanois is associated with the genre 'blues'. Therefore, the correct target of the relation 'genre' star"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": null, "score": 0.0, "raw": "Based on the provided triples, there is no direct relation 'member_of' starting from the entity 'France'. The information given does not include Franc"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Netherlands'. Therefore, based on the provid"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 9, "score": 1.0, "raw": "Based on the provided triples, the correct occupation for Cyndi Lauper is 'recording_artist'. However, since this exact option is not listed among the"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information related to diplomatic relations or the entity 'Estonia'. Therefore, based on the provided knowledge g"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": null, "score": 0.0, "raw": "The given knowledge graph does not contain any information about Ayn Rand's place of birth. Therefore, based on the provided triples, it is not possib"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": null, "score": 0.0, "raw": "The given knowledge graph does not contain any triple that directly links the entity 'T-Bone_Walker' with an 'instrument' relation. Therefore, based o"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Lithuania'. Therefore, based on the provided"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "Based on the provided triples, there is no direct triple stating that Tupac Shakur has a 'residence' relation with any of the given options. However, "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 8, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links 'T-Bone_Walker' to an 'instrument'. The information provided does not contain the "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information about diplomatic relations or any specific countries like Estonia, Australia, Hungary, Fran"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple stating that Justin Timberlake has a 'residence' in any of the given options. The information"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 10, "score": 0.0, "raw": "The entity 'Vladimir_Nabokov' is not present in the provided triples, so we cannot determine the correct target of the relation 'languages_spoken,_wri"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links the entity 'Israel' with the 'member_of' relation to any of the options given. The"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": 10, "score": 0.0, "raw": "Based on the provided triples, the entity that is the correct target of the relation 'educated_at' starting from entity 'Nicolae_Iorga' is:\n\n10. Leipz"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or Kosovo. Therefore, based on the provided triples, it is "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 7, "score": 0.0, "raw": "To determine the correct genre for Natalie Cole, we need to look for a triple in the given knowledge graph where the head is 'Natalie_Cole' and the re"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information related to the diplomatic relations of Denmark. Therefore, based on the provided knowledge graph, we "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information related to the diplomatic relations of Nepal. The provided options include various countries, but non"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 1, "score": 0.0, "raw": "The provided triples do not include any information about an entity named 'Theodor_N\u00f6ldeke' or any organization related to 'member_of' starting from t"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": null, "score": 0.0, "raw": "Unfortunately, the provided triples do not include any information about Roger Miller's occupation. Therefore, I cannot determine the correct answer b"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to the diplomatic relations of Georgia with any of the listed countries. Therefore,"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": null, "score": 0.0, "raw": "The given knowledge graph does not contain any information about Elmer Bernstein's place of birth. Therefore, based on the provided triples, it is not"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": null, "score": 0.0, "raw": "The given knowledge graph does not contain any triples involving the entity 'Pakistan' or the relation 'diplomatic_relation'. Therefore, based on the "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": 0, "score": 0.0, "raw": "In the provided triples, there is no information about Vladimir Putin or any relation involving 'languages_spoken,_written,_or_signed' for him. The gr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": null, "score": 0.0, "raw": "After reviewing the provided triples, there is no triple that starts with the entity 'David_Lindley' and has the relation 'languages_spoken,_written,_"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "To determine the correct answer, I need to find the triple that starts with the entity 'Graham_Parker' and has the relation 'instrument'. Scanning thr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to the 'diplomatic_relation' between 'Netherlands' and any of the provided options."}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": 10, "score": 1.0, "raw": "To determine the correct occupation for John Lydon, I will look for the relevant triple in the provided data.\n\nThe relevant triple is:\n(John_Lydon, ge"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": null, "score": 0.0, "raw": "After reviewing the provided triples, I couldn't find any direct triple that links the entity 'Ulrich_von_Wilamowitz-Moellendorff' with the relation '"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": null, "score": 0.0, "raw": "The given knowledge graph does not contain any triples that directly link the entity 'Israel' with any of the provided organizations through the 'memb"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "To determine the correct target of the relation 'field_of_work' starting from the entity 'Fiona_Apple', I will look for a triple in the given data whe"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 1, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links Jason_Derulo to an instrument with the relation 'instrument'. The closest informat"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to the diplomatic relations of Taiwan with any of the listed countries. The graph f"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct information about Jessica Simpson's residence. The given triples do not include any information link"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": 0, "score": 0.0, "raw": "After reviewing the provided triples, there is no direct triple that links the entity 'AJ_Michalka' with the relation 'field_of_work'. Therefore, base"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 3, "score": 0.0, "raw": "Based on the provided triples, Celeste Buckingham is associated with the genres \"pop_music\", \"rock_music\", \"hip_hop_music\", and \"electronic_music\". No"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "To determine the correct field of work for Mohandas Karamchand Gandhi, we need to look for any direct or indirect information in the provided triples "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 4, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links Rob_Zombie to an instrument. The options provided all list \"voice\" multiple times,"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": 1, "score": 0.0, "raw": "After reviewing the provided triples, there is no direct triple that links 'Shania Twain' to an 'instrument' relation. The information provided does n"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 7, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links Whitney Houston to a genre. However, Whitney Houston is widely known for her work "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct information about an entity named 'Jordan' or any relation 'member_of' starting from 'Jordan'. The t"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 1, "score": 1.0, "raw": "After reviewing the provided triples, there is no direct triple that links Todd Rundgren to an instrument using the relation 'instrument'. The options"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": null, "score": 0.0, "raw": "Unfortunately, the provided triples do not include any information about Mario Praz's place of death. The given data does not contain a triple where M"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 7, "score": 0.0, "raw": "To determine the correct target of the relation 'record_label' starting from the entity 'Jennifer_Hudson', I will look through the provided triples fo"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": null, "score": 0.0, "raw": "The given knowledge graph does not contain any information about the diplomatic relations of Taiwan. The provided triples do not include any informati"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to the diplomatic relations of Venezuela with any of the listed countries. The grap"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": null, "score": 0.0, "raw": "The given triples do not include any information about Charles Aznavour's place of birth. Therefore, based on the provided information, it is not poss"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": null, "score": 0.0, "raw": "The given knowledge graph does not contain any information about diplomatic relations involving the entity 'Nepal'. The provided triples do not includ"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links 'Greece' with any 'member_of' relation to one of the given options. The informatio"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information related to the 'diplomatic_relation' starting from the entity 'Bhutan'. Therefore, based on the provi"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": null, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'France'. Therefore, based on the provided tr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": null, "score": 0.0, "raw": "To determine the correct record label for John Lennon, we need to look for a triple where the head is 'John_Lennon' and the relation is 'record_label'"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": null, "score": 0.0, "raw": "The given triples do not contain any information related to diplomatic relations or the entity 'France'. Therefore, based on the provided knowledge gr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 8, "score": 0.0, "raw": "Based on the provided triples, there is no direct information about Wilhelm Grimm's employer. However, given the context and the options provided, it "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information about the diplomatic relations of the Democratic Republic of the Congo. The provided options do not h"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "To determine the correct answer, we need to look for a triple in the given knowledge graph where the head entity is 'Sam_Cooke' and the relation is 'i"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 0, "score": 0.0, "raw": "Unfortunately, the provided triples do not include information about Charles Aznavour's genre. Therefore, based on the given information, it is not po"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": null, "score": 0.0, "raw": "The given triples do not contain any information related to the diplomatic relations of Saudi Arabia with other countries. Therefore, based on the pro"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links the entity 'Netherlands' with any of the given options through the 'member_of' rel"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": null, "score": 0.0, "raw": "To determine the correct record label for Buffy Sainte-Marie, I would need to search the provided triples for a triple that starts with Buffy Sainte-M"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": 2, "score": 0.0, "raw": "To determine the correct record label for Faith Evans, I will search through the provided triples for any mention of Faith Evans and the 'record_label"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct information linking the entity 'Democratic_Republic_of_the_Congo' to any of the organizations listed"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 7, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links 'Macy_Gray' to an 'occupation'. However, there is a triple that links 'Macy_Gray' "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": null, "score": 0.0, "raw": "After reviewing the provided triples, there is no triple that directly links the entity 'Adriano_Celentano' with the relation 'instrument'. Therefore,"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 6, "score": 0.0, "raw": "Based on the provided triples, there is no direct information about entities influenced by Friedrich Nietzsche. However, given the context and histori"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "Based on the provided triples, there is no direct triple stating the religion of Johann_Wolfgang_von_Goethe. However, given that Johann_Wolfgang_von_G"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 2, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple stating that Demi Lovato's instrument is any of the options given. However, from the informat"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information about diplomatic relations starting from the entity 'United_States_of_America'. The provided triples "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information about the entity 'Max_Born' or the 'member_of' relation starting from 'Max_Born'. Therefore"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Denmark'. Therefore, based on the provided t"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any triples that involve the 'diplomatic_relation' starting from the entity 'United_States_of_America'. The"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": 10, "score": 0.0, "raw": "In the provided triples, there is no direct triple that links 'Sakis_Rouvas' to any genre. Therefore, based on the information given, we cannot determ"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": 3, "score": 1.0, "raw": "To determine the correct target of the relation 'country_of_citizenship' starting from the entity 'Rob_Zombie', we need to look for a triple in the gi"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links the entity 'Netherlands' with any of the given options through the 'member_of' rel"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links 'Denmark' with the 'member_of' relation to any of the given options. The knowledge"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "To determine the correct genre for Nelly Furtado, I'll look through the provided triples to find a direct relation from Nelly Furtado to a genre.\n\nFro"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple indicating that 'Nepal' is a member of any of the listed organizations. The information provi"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "Based on the provided triples, there is no direct triple that links Whitney Houston to a genre. However, Whitney Houston is widely known for her work "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 0, "score": 0.0, "raw": "The provided knowledge graph does not contain any information related to the diplomatic relations of Hungary with other countries. The triples provide"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 1, "score": 0.0, "raw": "Based on the provided triples, the entity 'Leo_Tolstoy' has the following triple related to the 'languages_spoken,_written,_or_signed' relation:\n\n(Leo"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 0, "score": 0.0, "raw": "After reviewing the provided triples, there is no triple that directly links the entity 'AJ_Michalka' with a religion. Therefore, based on the informa"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": null, "score": 0.0, "raw": "After reviewing the provided triples, there is no triple that directly links the entity 'Vincent_Gallo' with the relation 'instrument'. Therefore, bas"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Hungary'. Therefore, based on the provided t"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 1, "score": 0.0, "raw": "To determine the correct target of the relation 'instrument' starting from the entity 'Bob_Mould', I will search through the provided triples for a tr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "To determine the correct target of the relation 'field_of_work' starting from the entity 'Gloria_Estefan', I will look through the provided triples fo"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "Based on the provided triples, the correct target for the relation 'country_of_citizenship' starting from the entity 'Dmitry_Medvedev' is:\n\n6. Russia\n"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": null, "score": 0.0, "raw": "The correct answer is not provided in the given triples. The triples only mention English as the official language for some entities, but there is no "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Mexico'. Therefore, based on the provided tr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": null, "score": 0.0, "raw": "The given triples do not contain any information related to the diplomatic relations of Bhutan. Therefore, based on the provided knowledge graph, we c"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": null, "score": 0.0, "raw": "After reviewing the provided triples, there is no direct triple that links the entity 'Joaquim_Maria_Machado_de_Assis' with the relation 'occupation'."}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": null, "score": 0.0, "raw": "The given triples do not contain any information related to the 'diplomatic_relation' starting from the entity 'Netherlands'. Therefore, based on the "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": null, "score": 0.0, "raw": "The given knowledge graph does not contain any information about the entity '\u00c9douard_Ren\u00e9_de_Laboulaye' or any relation 'place_of_death'. Therefore, b"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links 'Bosnia_and_Herzegovina' with the 'member_of' relation. The information given does"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct relation 'member_of' starting from the entity 'Czech_Republic'. The information given does not inclu"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": null, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Germany'. There are no triples that mention "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 2, "score": 0.0, "raw": "To determine the correct genre for Janelle Mon\u00e1e, I will look for a triple in the given data where the head is 'Janelle_Mon\u00e1e' and the relation is 'ge"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "The entity 'Jodie_Foster' is not present in the provided triples, and therefore, we cannot determine the correct target of the relation 'country_of_ci"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to the diplomatic relations of Hungary. The triples provided do not include any inf"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": null, "score": 0.0, "raw": "After reviewing the provided triples, there is no triple that directly links the entity 'Kinky_Friedman' with the relation 'instrument'. Therefore, ba"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 1, "score": 1.0, "raw": "To determine the correct genre for Faith Evans, I will search through the provided triples for any mention of Faith Evans and the 'genre' relation.\n\nT"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 1, "score": 0.0, "raw": "To determine the correct target of the relation 'instrument' starting from the entity 'Nick_Cave', I will search through the provided triples for a tr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 0, "score": 0.0, "raw": "After reviewing the provided triples, there is no direct triple that links the entity 'AJ_Michalka' with the relation 'genre'. Therefore, based on the"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 9, "score": 1.0, "raw": "To determine the correct answer, we need to look for a triple in the given knowledge graph where the head entity is 'Tori_Amos' and the relation is 'i"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 9, "score": 1.0, "raw": "Based on the provided triples, the correct occupation for 'Mohandas_Karamchand_Gandhi' is:\n\nMohandas_Karamchand_Gandhi, occupation, politician\n\nANSWER"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 1, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'France'. Therefore, based on the provided tr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 4, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links 'Theodor_N\u00f6ldeke' to any 'member_of' relationship. The information provided does n"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": 4, "score": 0.0, "raw": "Based on the provided triples, there is no direct information linking the entity 'Iran' to any 'member_of' relationship. The options provided all refe"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": null, "score": 0.0, "raw": "The given triples do not include any information about Edgar Allan Poe's occupation. Therefore, based on the provided graph, we cannot determine the c"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": 0, "score": 0.0, "raw": "The given knowledge graph does not contain any information related to diplomatic relations or the entity 'Serbia'. The provided triples do not include"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "Based on the provided triples, there is no direct triple that states the 'place_of_death' for Michael Jackson. However, a widely known fact from outsi"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "After reviewing the provided triples, there is no direct triple that links 'Elie_Wiesel' to the 'country_of_citizenship' relation. Therefore, based on"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information related to diplomatic relations or the entity 'Estonia'. There is no direct or indirect mention of Es"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 9, "score": 1.0, "raw": "To determine the correct target of the relation 'languages_spoken,_written,_or_signed' starting from the entity 'Zooey Deschanel' in this graph, I wil"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 9, "score": 1.0, "raw": "To determine the correct occupation for Kelly Clarkson, I'll look through the provided triples for any that link Kelly Clarkson to an occupation.\n\nFro"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": 1, "score": 0.0, "raw": "Based on the provided triples, the entity 'La_Toya_Jackson' is associated with the genre 'rhythm_and_blues'.\n\nLa_Toya_Jackson, genre, rhythm_and_blues"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 0, "score": 0.0, "raw": "The given triples do not contain any information related to the diplomatic relations of Israel. Therefore, based on the provided knowledge graph, we c"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": null, "score": 0.0, "raw": "After reviewing the provided triples, there is no direct triple that links the entity 'Yehuda_Amichai' to any occupation. The triples provided do not "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": null, "score": 0.0, "raw": "After reviewing the provided triples, there is no direct triple that links the entity 'Renaud' with the relation 'instrument'. Therefore, based on the"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": null, "score": 0.0, "raw": "The given triples do not contain any information related to the diplomatic relations of Bhutan. Therefore, based on the provided knowledge graph, we c"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 3, "pred": 4, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple stating that David Bowie's instrument is any of the options listed. However, it is well-known"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": 3, "score": 0.0, "raw": "To determine the correct target of the relation 'instrument' starting from the entity 'Taylor_Momsen', I need to look for a triple in the given data w"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links 'Wilhelm_Grimm' with the 'member_of' relation to any of the given options. The kno"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": 0, "score": 0.0, "raw": "Based on the provided triples, there is no direct triple that links 'Denmark' with the 'member_of' relation to any of the given options. The informati"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": null, "score": 0.0, "raw": "In the provided triples, there is no entity named 'Alexander_Emanuel_Agassiz'. Therefore, we cannot determine the correct target of the relation 'coun"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 10, "pred": 1, "score": 0.0, "raw": "Based on the information provided in the triples, the correct target of the relation 'official_language' starting from the entity 'Eritrea' is:\n\nEritr"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "To determine the correct answer, we need to find the triple that starts with the entity 'Robbie Robertson' and has the relation 'instrument'. Scanning"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 7, "score": 0.0, "raw": "To determine the correct genre for Tito Jackson, I'll look through the provided triples to find a triple that connects Tito Jackson with a genre.\n\nThe"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 9, "pred": null, "score": 0.0, "raw": "The given triples do not include information about Tupac_Shakur's country of citizenship. Therefore, based on the provided information, we cannot dete"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": null, "score": 0.0, "raw": "The given triples do not include any information about Felix Philipp Kanitz or his ethnic group. Therefore, based on the provided knowledge graph, it "}
+{"arm": "frozen_triples", "enc": "triples", "gold": 1, "pred": null, "score": 0.0, "raw": "The given knowledge graph does not contain any information about the entity 'Vincent_Gallo' or the relation 'country_of_citizenship' starting from 'Vi"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 2, "score": 0.0, "raw": "To determine the correct occupation for Rob Zombie, we need to look at the given triples for Rob Zombie. However, in the provided triples, there is no"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": null, "score": 0.0, "raw": "The given triples do not contain any information related to the diplomatic relations of Nepal. Therefore, based on the provided knowledge graph, we ca"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 4, "pred": 4, "score": 1.0, "raw": "Based on the provided triples, there is no direct triple that links Friedrich Engels to the relation 'field_of_work'. However, given the context and t"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "Based on the provided triples, there is no direct triple that links 'Levon_Helm' to an 'instrument'. However, Levon Helm is known to be a drummer, and"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "In the provided triples, there is no direct triple stating that Wilhelm Grimm is associated with any specific ethnic group. However, given the context"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "To determine the correct occupation of Trent Reznor, I will search through the provided triples for any that link Trent Reznor as the head and 'occupa"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "Based on the provided triples, there is no direct triple that links 'Sam_Cooke' with a 'place_of_death'. The given options do not appear to be directl"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 8, "pred": 3, "score": 0.0, "raw": "To determine the correct answer, we need to find the relevant triple involving 'Alyson_Michalka' and the relation 'field_of_work'. However, upon revie"}
+{"arm": "frozen_triples", "enc": "triples", "gold": 7, "pred": null, "score": 0.0, "raw": "Unfortunately, the provided triples do not include any information about Friedrich Engels having the relation 'languages_spoken,_written,_or_signed'. "}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'John_Locke' matches option 1 ('Latin').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 6, "score": 0.0, "raw": "The relation 'genre' from 'John_Mayer' matches option 6 ('blues').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 6, "score": 0.0, "raw": "The relation 'genre' from 'Shannon_Leto' matches option 6 ('alternative_rock').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'John_Muir' matches option 7 ('English').\nANSWER: 7"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 5, "score": 0.0, "raw": "The relation 'member_of' from 'Jordan' matches option 5 ('National_Academy_of_Sciences').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 4, "score": 1.0, "raw": "The relation 'field_of_work' from 'Lana_Del_Rey' matches option 4 ('musical_composition').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Sweden' matches option 1 ('France').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'influenced_by' from 'Immanuel_Kant' matches option 10 ('John_Locke').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 4, "score": 1.0, "raw": "The relation 'religion' from 'Henri_Poincar\u00e9' matches option 4 ('atheism').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'residence' from 'Demi_Lovato' matches option 2 ('Los_Angeles').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 5, "score": 0.0, "raw": "The relation 'record_label' from 'Chris_Martin' matches option 5 ('Geffen_Records').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Denmark' matches option 1 ('Germany').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'diplomatic_relation' from 'Monaco' matches option 5 ('France').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 3, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'Debbie_Reynolds' matches option 3 ('United_States_of_America').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Albania' matches option 1 ('France').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 9, "score": 0.0, "raw": "The relation 'member_of' from 'Henri_Poincar\u00e9' matches option 9 ('National_Academy_of_Sciences').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'Ukraine' matches option 10 ('United_Nations').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 2, "score": 0.0, "raw": "The relation 'influenced_by' from 'John_Locke' matches option 2 ('Thomas_Hobbes').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'Friedrich_Engels' matches option 8 ('Germany').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Estonia' matches option 1 ('Germany').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'genre' from 'Teena_Marie' matches option 8 ('rhythm_and_blues').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'Alexander_Emanuel_Agassiz' matches option 8 ('English').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'place_of_death' from 'Eddie_Money' matches option 5 ('Los_Angeles').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'member_of' from 'Max_Born' matches option 2 ('National_Academy_of_Sciences').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'record_label' from 'Tyrese_Gibson' matches option 1 ('RCA_Records').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Estonia' matches option 1 ('France').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 1, "score": 0.0, "raw": "The relation 'occupation' from 'Renaud' matches option 1 ('playwright').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'France' matches option 2 ('Republic_of_the_Congo').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'country' from 'Epic' matches option 10 ('United_States_of_America').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'Edgar_Allan_Poe' matches option 8 ('English').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'Amos_Oz' matches option 2 ('Israel').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'Edgar_Allan_Poe' matches option 6 ('United_States_of_America').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 7, "score": 0.0, "raw": "The relation 'member_of' from 'Bulgaria' matches option 7 ('Academy_of_Arts_of_the_GDR').\nANSWER: 7"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 4, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Israel' matches option 4 ('United_States_of_America').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 3, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Israel' matches option 3 ('United_States_of_America').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'occupation' from 'Vladimir_Lenin' matches option 5 ('politician').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 6, "score": 0.0, "raw": "The relation 'ethnic_group' from 'Amos_Oz' matches option 6 ('English_people').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Norway' matches option 10 ('Cape_Verde').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 3, "score": 1.0, "raw": "The relation 'diplomatic_relation' from 'Republic_of_the_Congo' matches option 3 ('United_States_of_America').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Denmark' matches option 10 ('Taiwan').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'religion' from 'John_Muir' matches option 1 ('Christianity').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'place_of_death' from 'Massimo_Bontempelli' matches option 2 ('Rome').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Republic_of_the_Congo' matches option 10 ('France').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'instrument' from 'Justin_Timberlake' matches option 1 ('voice').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Israel' matches option 2 ('South_Africa').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'Hugo_Grotius' matches option 6 ('Netherlands').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 1, "score": 0.0, "raw": "The relation 'genre' from 'Robbie_Robertson' matches option 1 ('alternative_rock').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 3, "score": 0.0, "raw": "The relation 'member_of' from 'Estonia' matches option 3 ('Russian_Academy_of_Sciences').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'genre' from 'Trent_Reznor' matches option 8 ('alternative_rock').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'religion' from 'Carole_King' matches option 7 ('Judaism').\nANSWER: 7"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'instrument' from 'John_Lydon' matches option 2 ('guitar').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 10, "score": 0.0, "raw": "The relation 'occupation' from 'Joni_Mitchell' matches option 10 ('composer').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 3, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'Kinky_Friedman' matches option 3 ('English').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 4, "score": 0.0, "raw": "The relation 'genre' from 'Igor_Stravinsky' matches option 4 ('blues').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'member_of' from 'Henri_Poincar\u00e9' matches option 5 ('Royal_Swedish_Academy_of_Sciences').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 6, "score": 0.0, "raw": "The relation 'educated_at' from 'Ayn_Rand' matches option 6 ('Leipzig_University').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 4, "score": 1.0, "raw": "The relation 'genre' from 'Marvin_Gaye' matches option 4 ('rhythm_and_blues').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'genre' from 'Ani_Lorak' matches option 10 ('blues').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'member_of' from 'Leopold_von_Ranke' matches option 7 ('Bavarian_Academy_of_Sciences_and_Humanities').\nANSWER: 7"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 8, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Germany' matches option 9 ('Republic_of_the_Congo').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 2, "score": 0.0, "raw": "The relation 'genre' from 'Daniel_Lanois' matches option 2 ('blues').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 5, "score": 0.0, "raw": "The relation 'member_of' from 'France' matches option 5 ('Lincean_Academy').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 7, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Netherlands' matches option 7 ('United_States_of_America').\nANSWER: 7"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 6, "score": 0.0, "raw": "The relation 'occupation' from 'Cyndi_Lauper' matches option 6 ('playwright').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Estonia' matches option 10 ('Denmark').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 9, "score": 0.0, "raw": "The relation 'place_of_birth' from 'Ayn_Rand' matches option 9 ('New_York_City').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'instrument' from 'T-Bone_Walker' matches option 1 ('guitar').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'diplomatic_relation' from 'Lithuania' matches option 2 ('United_States_of_America').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 9, "score": 0.0, "raw": "The relation 'residence' from 'Tupac_Shakur' matches option 9 ('United_States_of_America').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'instrument' from 'T-Bone_Walker' matches option 5 ('piano').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'United_States_of_America' matches option 10 ('Denmark').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 4, "score": 0.0, "raw": "The relation 'residence' from 'Justin_Timberlake' matches option 4 ('United_States_of_America').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 1, "score": 0.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'Vladimir_Nabokov' matches option 1 ('English').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'member_of' from 'Israel' matches option 7 ('International_Telecommunication_Union').\nANSWER: 7"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 10, "score": 0.0, "raw": "The relation 'educated_at' from 'Nicolae_Iorga' matches option 10 ('Leipzig_University').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 6, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Kosovo' matches option 6 ('United_States_of_America').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 4, "score": 0.0, "raw": "The relation 'genre' from 'Natalie_Cole' matches option 4 ('blues').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Denmark' matches option 2 ('Bhutan').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 8, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Nepal' matches option 8 ('Israel').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 1, "score": 0.0, "raw": "The relation 'member_of' from 'Theodor_N\u00f6ldeke' matches option 1 ('G\u00f6ttingen_Academy_of_Sciences').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 7, "score": 0.0, "raw": "The relation 'occupation' from 'Roger_Miller' matches option 7 ('playwright').\nANSWER: 7"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Georgia' matches option 1 ('Israel').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 9, "score": 0.0, "raw": "The relation 'place_of_birth' from 'Elmer_Bernstein' matches option 9 ('Los_Angeles').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Pakistan' matches option 1 ('United_States_of_America').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'Vladimir_Putin' matches option 10 ('English').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'David_Lindley' matches option 7 ('English').\nANSWER: 7"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'instrument' from 'Graham_Parker' matches option 8 ('guitar').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Netherlands' matches option 10 ('Holy_See').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 2, "score": 0.0, "raw": "The relation 'occupation' from 'John_Lydon' matches option 2 ('playwright').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 1, "score": 0.0, "raw": "The relation 'occupation' from 'Ulrich_von_Wilamowitz-Moellendorff' matches option 1 ('playwright').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'member_of' from 'Israel' matches option 10 ('International_Telecommunication_Union').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "The relation 'field_of_work' from 'Fiona_Apple' matches option 6 ('musical_composition').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 9, "score": 1.0, "raw": "The relation 'instrument' from 'Jason_Derulo' matches option 9 ('voice').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 8, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Taiwan' matches option 8 ('United_States_of_America').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'residence' from 'Jessica_Simpson' matches option 5 ('Los_Angeles').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 3, "score": 1.0, "raw": "The relation 'field_of_work' from 'AJ_Michalka' matches option 3 ('musical_composition').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 3, "score": 0.0, "raw": "The relation 'genre' from 'Celeste_Buckingham' matches option 3 ('pop_music').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'field_of_work' from 'Mohandas_Karamchand_Gandhi' matches option 5 ('philosophy').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'instrument' from 'Rob_Zombie' matches option 1 ('guitar').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 3, "score": 1.0, "raw": "The relation 'instrument' from 'Shania_Twain' matches option 3 ('guitar').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 3, "score": 0.0, "raw": "The relation 'genre' from 'Whitney_Houston' matches option 3 ('rhythm_and_blues').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 9, "score": 0.0, "raw": "The relation 'member_of' from 'Jordan' matches option 9 ('Russian_Academy_of_Sciences').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'instrument' from 'Todd_Rundgren' matches option 1 ('guitar').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "The relation 'place_of_death' from 'Mario_Praz' matches option 6 ('Rome').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 1, "score": 0.0, "raw": "The relation 'record_label' from 'Jennifer_Hudson' matches option 1 ('Geffen_Records').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 6, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Taiwan' matches option 6 ('People\\'s_Republic_of_China').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Venezuela' matches option 10 ('Belgium').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 9, "score": 1.0, "raw": "The relation 'place_of_birth' from 'Charles_Aznavour' matches option 9 ('Paris').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Nepal' matches option 2 ('India').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 1, "score": 0.0, "raw": "The relation 'member_of' from 'Greece' matches option 1 ('Royal_Prussian_Academy_of_Sciences').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Bhutan' matches option 1 ('Nepal').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'France' matches option 1 ('United_States_of_America').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'record_label' from 'John_Lennon' matches option 2 ('Geffen_Records').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'France' matches option 2 ('Lithuania').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 4, "score": 0.0, "raw": "The relation 'employer' from 'Wilhelm_Grimm' matches option 4 ('Leipzig_University').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 6, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Democratic_Republic_of_the_Congo' matches option 6 ('United_States_of_America').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'instrument' from 'Sam_Cooke' matches option 2 ('voice').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 3, "score": 0.0, "raw": "The relation 'genre' from 'Charles_Aznavour' matches option 3 ('blues').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 9, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Saudi_Arabia' matches option 9 ('France').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 1, "score": 0.0, "raw": "The relation 'member_of' from 'Netherlands' matches option 1 ('International_Hydrographic_Organization').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 1, "score": 0.0, "raw": "The relation 'record_label' from 'Buffy_Sainte-Marie' matches option 1 ('Geffen_Records').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 4, "score": 0.0, "raw": "The relation 'record_label' from 'Faith_Evans' matches option 4 ('Geffen_Records').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 8, "score": 0.0, "raw": "The relation 'member_of' from 'Democratic_Republic_of_the_Congo' matches option 8 ('Royal_Society').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 3, "score": 0.0, "raw": "The relation 'occupation' from 'Macy_Gray' matches option 3 ('playwright').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 9, "score": 0.0, "raw": "The relation 'instrument' from 'Adriano_Celentano' matches option 9 ('piano').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 3, "score": 0.0, "raw": "The relation 'influenced_by' from 'Friedrich_Nietzsche' matches option 3 ('Immanuel_Kant').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'religion' from 'Johann_Wolfgang_von_Goethe' matches option 2 ('Lutheranism').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 2, "score": 0.0, "raw": "The relation 'instrument' from 'Demi_Lovato' matches option 2 ('voice').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'United_States_of_America' matches option 10 ('Australia').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 1, "score": 0.0, "raw": "The relation 'member_of' from 'Max_Born' matches option 1 ('Academy_of_Sciences_of_the_USSR').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 5, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Denmark' matches option 5 ('United_States_of_America').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'United_States_of_America' matches option 10 ('Slovenia').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 2, "score": 0.0, "raw": "The relation 'genre' from 'Sakis_Rouvas' matches option 2 ('alternative_rock').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 3, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'Rob_Zombie' matches option 3 ('United_States_of_America').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'Netherlands' matches option 10 ('Organisation_of_Islamic_Cooperation').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 3, "score": 0.0, "raw": "The relation 'member_of' from 'Denmark' matches option 3 ('German_Academy_of_Sciences_Leopoldina').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 1, "score": 0.0, "raw": "The relation 'genre' from 'Nelly_Furtado' matches option 1 ('alternative_rock').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 1, "score": 0.0, "raw": "The relation 'member_of' from 'Nepal' matches option 1 ('Universal_Postal_Union').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'genre' from 'Whitney_Houston' matches option 5 ('rhythm_and_blues').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'diplomatic_relation' from 'Hungary' matches option 2 ('Estonia').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 1, "score": 0.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'Leo_Tolstoy' matches option 1 ('English').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 1, "score": 0.0, "raw": "The relation 'religion' from 'AJ_Michalka' matches option 1 ('Anglicanism').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 4, "score": 1.0, "raw": "The relation 'instrument' from 'Vincent_Gallo' matches option 4 ('guitar').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 8, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Hungary' matches option 8 ('United_States_of_America').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'instrument' from 'Bob_Mould' matches option 2 ('voice').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'field_of_work' from 'Gloria_Estefan' matches option 7 ('musical_composition').\nANSWER: 7"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'Dmitry_Medvedev' matches option 6 ('Russia').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'official_language' from 'Netherlands' matches option 1 ('English').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Mexico' matches option 1 ('Saudi_Arabia').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Bhutan' matches option 2 ('United_States_of_America').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'occupation' from 'Joaquim_Maria_Machado_de_Assis' matches option 8 ('playwright').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 9, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Netherlands' matches option 9 ('France').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'place_of_death' from '\u00c9douard_Ren\u00e9_de_Laboulaye' matches option 10 ('Paris').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 1, "score": 0.0, "raw": "The relation 'member_of' from 'Bosnia_and_Herzegovina' matches option 1 ('Royal_Society').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 3, "score": 0.0, "raw": "The relation 'member_of' from 'Czech_Republic' matches option 3 ('European_Union').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Germany' matches option 10 ('Australia').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 6, "score": 0.0, "raw": "The relation 'genre' from 'Janelle_Mon\u00e1e' matches option 6 ('blues').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'Jodie_Foster' matches option 7 ('United_States_of_America').\nANSWER: 7"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Hungary' matches option 1 ('Netherlands').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'instrument' from 'Kinky_Friedman' matches option 5 ('voice').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'genre' from 'Faith_Evans' matches option 1 ('rhythm_and_blues').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'instrument' from 'Nick_Cave' matches option 7 ('guitar').\nANSWER: 7"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 2, "score": 0.0, "raw": "The relation 'genre' from 'AJ_Michalka' matches option 2 ('alternative_rock').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 9, "score": 1.0, "raw": "The relation 'instrument' from 'Tori_Amos' matches option 9 ('voice').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 3, "score": 0.0, "raw": "The relation 'occupation' from 'Mohandas_Karamchand_Gandhi' matches option 3 ('playwright').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'diplomatic_relation' from 'France' matches option 2 ('Mexico').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 4, "score": 0.0, "raw": "The relation 'member_of' from 'Theodor_N\u00f6ldeke' matches option 4 ('G\u00f6ttingen_Academy_of_Sciences').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 8, "score": 0.0, "raw": "The relation 'member_of' from 'Iran' matches option 8 ('Royal_Society').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'occupation' from 'Edgar_Allan_Poe' matches option 8 ('playwright').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Serbia' matches option 10 ('Albania').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'place_of_death' from 'Michael_Jackson' matches option 8 ('Los_Angeles').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'Elie_Wiesel' matches option 2 ('United_States_of_America').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'diplomatic_relation' from 'Estonia' matches option 8 ('Finland').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 9, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'Zooey_Deschanel' matches option 9 ('English').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 3, "score": 0.0, "raw": "The relation 'occupation' from 'Kelly_Clarkson' matches option 3 ('playwright').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 4, "score": 0.0, "raw": "The relation 'genre' from 'La_Toya_Jackson' matches option 4 ('blues').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Israel' matches option 2 ('Egypt').\nANSWER: 2"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'occupation' from 'Yehuda_Amichai' matches option 10 ('playwright').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "The relation 'instrument' from 'Renaud' matches option 6 ('voice').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 5, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Bhutan' matches option 5 ('People\\'s_Republic_of_China').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 3, "pred": 3, "score": 1.0, "raw": "The relation 'instrument' from 'David_Bowie' matches option 3 ('voice').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'instrument' from 'Taylor_Momsen' matches option 10 ('guitar').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 5, "score": 0.0, "raw": "The relation 'member_of' from 'Wilhelm_Grimm' matches option 5 ('Royal_Prussian_Academy_of_Sciences').\nANSWER: 5"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 3, "score": 0.0, "raw": "The relation 'member_of' from 'Denmark' matches option 3 ('G\u00f6ttingen_Academy_of_Sciences').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'country_of_citizenship' from 'Alexander_Emanuel_Agassiz' matches option 10 ('United_States_of_America').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 10, "pred": 1, "score": 0.0, "raw": "The relation 'official_language' from 'Eritrea' matches option 1 ('English').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "The relation 'instrument' from 'Robbie_Robertson' matches option 6 ('guitar').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 4, "score": 1.0, "raw": "The relation 'genre' from 'Tito_Jackson' matches option 4 ('blues').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 9, "pred": 9, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'Tupac_Shakur' matches option 9 ('United_States_of_America').\nANSWER: 9"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 3, "score": 0.0, "raw": "The relation 'ethnic_group' from 'Felix_Philipp_Kanitz' matches option 3 ('Ashkenazi_Jews').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'Vincent_Gallo' matches option 1 ('United_States_of_America').\nANSWER: 1"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 3, "score": 0.0, "raw": "The relation 'occupation' from 'Rob_Zombie' matches option 3 ('playwright').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'Nepal' matches option 10 ('Sri_Lanka').\nANSWER: 10"}
+{"arm": "lora_triples", "enc": "triples", "gold": 4, "pred": 4, "score": 1.0, "raw": "The relation 'field_of_work' from 'Friedrich_Engels' matches option 4 ('philosophy').\nANSWER: 4"}
+{"arm": "lora_triples", "enc": "triples", "gold": 6, "pred": 6, "score": 1.0, "raw": "The relation 'instrument' from 'Levon_Helm' matches option 6 ('drum_kit').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 3, "score": 0.0, "raw": "The relation 'ethnic_group' from 'Wilhelm_Grimm' matches option 3 ('English_people').\nANSWER: 3"}
+{"arm": "lora_triples", "enc": "triples", "gold": 5, "pred": 6, "score": 0.0, "raw": "The relation 'occupation' from 'Trent_Reznor' matches option 6 ('singer').\nANSWER: 6"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'place_of_death' from 'Sam_Cooke' matches option 8 ('Los_Angeles').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'field_of_work' from 'Alyson_Michalka' matches option 8 ('musical_composition').\nANSWER: 8"}
+{"arm": "lora_triples", "enc": "triples", "gold": 7, "pred": 1, "score": 0.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'Friedrich_Engels' matches option 1 ('English').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 2, "score": 0.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'e0' matches option 2 ('e3').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 6, "score": 0.0, "raw": "The relation 'genre' from 'e1115' matches option 6 ('e1100').\nANSWER: 6"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 5, "score": 0.0, "raw": "The relation 'genre' from 'e1079' matches option 5 ('e912').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'e1451' matches option 7 ('e3').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 1, "score": 0.0, "raw": "The relation 'member_of' from 'e842' matches option 1 ('e608').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 10, "score": 0.0, "raw": "The relation 'field_of_work' from 'e604' matches option 10 ('e11').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e458' matches option 10 ('e839').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'influenced_by' from 'e1306' matches option 10 ('e0').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 4, "score": 1.0, "raw": "The relation 'religion' from 'e760' matches option 4 ('e916').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'residence' from 'e1188' matches option 2 ('e729').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 5, "score": 0.0, "raw": "The relation 'record_label' from 'e14' matches option 5 ('e1584').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e431' matches option 1 ('e425').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 7, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e848' matches option 7 ('e424').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 3, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'e70' matches option 3 ('e424').\nANSWER: 3"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e501' matches option 1 ('e506').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'e760' matches option 10 ('e1169').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'e810' matches option 10 ('e421').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 2, "score": 0.0, "raw": "The relation 'influenced_by' from 'e0' matches option 2 ('e12').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 2, "score": 0.0, "raw": "The relation 'country_of_citizenship' from 'e1241' matches option 2 ('e424').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e849' matches option 1 ('e425').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'genre' from 'e1073' matches option 8 ('e912').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'e768' matches option 8 ('e3').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'place_of_death' from 'e1002' matches option 5 ('e729').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 5, "score": 0.0, "raw": "The relation 'member_of' from 'e773' matches option 5 ('e436').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'record_label' from 'e911' matches option 1 ('e1508').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 5, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e849' matches option 5 ('e849').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 8, "score": 0.0, "raw": "The relation 'occupation' from 'e503' matches option 8 ('e1').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e506' matches option 2 ('e861').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'country' from 'e293' matches option 10 ('e424').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'e1275' matches option 8 ('e3').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 4, "score": 0.0, "raw": "The relation 'country_of_citizenship' from 'e1154' matches option 4 ('e424').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 6, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'e1275' matches option 6 ('e424').\nANSWER: 6"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 1, "score": 0.0, "raw": "The relation 'member_of' from 'e486' matches option 1 ('e452').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 4, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e420' matches option 4 ('e424').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 3, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e420' matches option 3 ('e424').\nANSWER: 3"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'occupation' from 'e1256' matches option 5 ('e1').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 4, "score": 1.0, "raw": "The relation 'ethnic_group' from 'e1154' matches option 4 ('e801').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e426' matches option 10 ('e885').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 3, "score": 1.0, "raw": "The relation 'diplomatic_relation' from 'e861' matches option 3 ('e424').\nANSWER: 3"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e431' matches option 1 ('e439').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'religion' from 'e1451' matches option 1 ('e706').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'place_of_death' from 'e220' matches option 2 ('e1287').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e861' matches option 10 ('e506').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'instrument' from 'e1218' matches option 1 ('e291').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 4, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e420' matches option 4 ('e450').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 3, "score": 0.0, "raw": "The relation 'country_of_citizenship' from 'e212' matches option 3 ('e424').\nANSWER: 3"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 3, "score": 0.0, "raw": "The relation 'genre' from 'e556' matches option 3 ('e1100').\nANSWER: 3"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'e849' matches option 10 ('e812').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'genre' from 'e1200' matches option 8 ('e1082').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'religion' from 'e407' matches option 7 ('e706').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'instrument' from 'e974' matches option 2 ('e731').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 10, "score": 0.0, "raw": "The relation 'occupation' from 'e348' matches option 10 ('e294').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 3, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'e1147' matches option 3 ('e3').\nANSWER: 3"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 4, "score": 0.0, "raw": "The relation 'genre' from 'e84' matches option 4 ('e1100').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 4, "score": 0.0, "raw": "The relation 'member_of' from 'e760' matches option 4 ('e434').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 10, "score": 0.0, "raw": "The relation 'educated_at' from 'e184' matches option 10 ('e794').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 4, "score": 1.0, "raw": "The relation 'genre' from 'e933' matches option 4 ('e912').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'genre' from 'e1107' matches option 10 ('e1100').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 1, "score": 0.0, "raw": "The relation 'member_of' from 'e774' matches option 1 ('e446').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 9, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e425' matches option 9 ('e424').\nANSWER: 9"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 2, "score": 0.0, "raw": "The relation 'genre' from 'e1222' matches option 2 ('e1100').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'e506' matches option 10 ('e812').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 7, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e804' matches option 7 ('e424').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 9, "score": 1.0, "raw": "The relation 'occupation' from 'e358' matches option 9 ('e504').\nANSWER: 9"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e849' matches option 1 ('e483').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 5, "score": 0.0, "raw": "The relation 'place_of_birth' from 'e184' matches option 5 ('e802').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'instrument' from 'e1181' matches option 1 ('e731').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'diplomatic_relation' from 'e465' matches option 2 ('e424').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 9, "score": 0.0, "raw": "The relation 'residence' from 'e977' matches option 9 ('e424').\nANSWER: 9"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'instrument' from 'e1181' matches option 10 ('e731').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e424' matches option 10 ('e431').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 4, "score": 0.0, "raw": "The relation 'residence' from 'e1218' matches option 4 ('e424').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 1, "score": 0.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'e936' matches option 1 ('e3').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 8, "score": 0.0, "raw": "The relation 'member_of' from 'e420' matches option 8 ('e419').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 10, "score": 0.0, "raw": "The relation 'educated_at' from 'e147' matches option 10 ('e159').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 6, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e490' matches option 6 ('e424').\nANSWER: 6"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 4, "score": 0.0, "raw": "The relation 'genre' from 'e1029' matches option 4 ('e1100').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e431' matches option 1 ('e443').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'diplomatic_relation' from 'e417' matches option 2 ('e808').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'e761' matches option 10 ('e822').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'occupation' from 'e1381' matches option 8 ('e504').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e467' matches option 10 ('e468').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 7, "score": 0.0, "raw": "The relation 'place_of_birth' from 'e1245' matches option 7 ('e1149').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e422' matches option 1 ('e424').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'e1299' matches option 10 ('e3').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'e606' matches option 7 ('e3').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'instrument' from 'e114' matches option 8 ('e731').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e804' matches option 1 ('e449').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'occupation' from 'e974' matches option 10 ('e287').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 7, "score": 0.0, "raw": "The relation 'occupation' from 'e764' matches option 7 ('e289').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'member_of' from 'e420' matches option 10 ('e434').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 10, "score": 0.0, "raw": "The relation 'field_of_work' from 'e110' matches option 10 ('e1013').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 8, "score": 0.0, "raw": "The relation 'instrument' from 'e1551' matches option 8 ('e1081').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 8, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e418' matches option 8 ('e424').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'residence' from 'e122' matches option 5 ('e729').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 1, "score": 0.0, "raw": "The relation 'field_of_work' from 'e727' matches option 1 ('e1270').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 7, "score": 0.0, "raw": "The relation 'genre' from 'e278' matches option 7 ('e912').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'field_of_work' from 'e45' matches option 10 ('e749').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'instrument' from 'e1383' matches option 1 ('e731').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 5, "score": 0.0, "raw": "The relation 'instrument' from 'e394' matches option 5 ('e1081').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 1, "score": 0.0, "raw": "The relation 'genre' from 'e534' matches option 1 ('e1082').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'e842' matches option 10 ('e812').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'instrument' from 'e566' matches option 1 ('e731').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 4, "score": 0.0, "raw": "The relation 'place_of_death' from 'e53' matches option 4 ('e780').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 1, "score": 0.0, "raw": "The relation 'record_label' from 'e937' matches option 1 ('e1584').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e418' matches option 10 ('e834').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e484' matches option 1 ('e804').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 9, "score": 1.0, "raw": "The relation 'place_of_birth' from 'e517' matches option 9 ('e510').\nANSWER: 9"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e417' matches option 1 ('e806').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 5, "score": 0.0, "raw": "The relation 'member_of' from 'e483' matches option 5 ('e441').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e439' matches option 1 ('e417').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e506' matches option 1 ('e424').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'record_label' from 'e135' matches option 2 ('e1584').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e506' matches option 2 ('e465').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 5, "score": 0.0, "raw": "The relation 'employer' from 'e1429' matches option 5 ('e153').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 3, "score": 1.0, "raw": "The relation 'diplomatic_relation' from 'e868' matches option 3 ('e861').\nANSWER: 3"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'instrument' from 'e548' matches option 2 ('e291').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 3, "score": 0.0, "raw": "The relation 'genre' from 'e517' matches option 3 ('e1100').\nANSWER: 3"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e808' matches option 10 ('e420').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'e804' matches option 10 ('e608').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 1, "score": 0.0, "raw": "The relation 'record_label' from 'e362' matches option 1 ('e1584').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 4, "score": 0.0, "raw": "The relation 'record_label' from 'e357' matches option 4 ('e1584').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 8, "score": 0.0, "raw": "The relation 'member_of' from 'e868' matches option 8 ('e5').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'occupation' from 'e375' matches option 2 ('e287').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 4, "score": 0.0, "raw": "The relation 'instrument' from 'e512' matches option 4 ('e1184').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 5, "score": 0.0, "raw": "The relation 'influenced_by' from 'e165' matches option 5 ('e659').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'religion' from 'e172' matches option 2 ('e782').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 1, "score": 0.0, "raw": "The relation 'instrument' from 'e1188' matches option 1 ('e731').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e424' matches option 10 ('e427').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'e773' matches option 10 ('e750').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 5, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e431' matches option 5 ('e424').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e424' matches option 10 ('e806').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 4, "score": 0.0, "raw": "The relation 'genre' from 'e598' matches option 4 ('e1100').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 3, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'e1383' matches option 3 ('e424').\nANSWER: 3"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'e804' matches option 10 ('e1400').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 1, "score": 0.0, "raw": "The relation 'member_of' from 'e431' matches option 1 ('e1169').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 5, "score": 0.0, "raw": "The relation 'genre' from 'e103' matches option 5 ('e1100').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 1, "score": 0.0, "raw": "The relation 'member_of' from 'e417' matches option 1 ('e454').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'genre' from 'e534' matches option 5 ('e912').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e462' matches option 10 ('e494').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 1, "score": 0.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'e54' matches option 1 ('e3').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 4, "score": 1.0, "raw": "The relation 'religion' from 'e727' matches option 4 ('e706').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 4, "score": 1.0, "raw": "The relation 'instrument' from 'e965' matches option 4 ('e731').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 8, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e462' matches option 8 ('e424').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'instrument' from 'e241' matches option 2 ('e291').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'field_of_work' from 'e89' matches option 7 ('e292').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 1, "score": 0.0, "raw": "The relation 'country_of_citizenship' from 'e79' matches option 1 ('e424').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'official_language' from 'e804' matches option 1 ('e3').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e821' matches option 1 ('e808').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e439' matches option 2 ('e424').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 5, "score": 0.0, "raw": "The relation 'occupation' from 'e1282' matches option 5 ('e149').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e804' matches option 2 ('e420').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 4, "score": 0.0, "raw": "The relation 'place_of_death' from 'e664' matches option 4 ('e724').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'e481' matches option 10 ('e779').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'e461' matches option 10 ('e441').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e425' matches option 10 ('e427').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 6, "score": 0.0, "raw": "The relation 'genre' from 'e372' matches option 6 ('e1100').\nANSWER: 6"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'e929' matches option 7 ('e424').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e462' matches option 2 ('e469').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 9, "score": 0.0, "raw": "The relation 'instrument' from 'e1147' matches option 9 ('e1081').\nANSWER: 9"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'genre' from 'e357' matches option 1 ('e912').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 7, "score": 1.0, "raw": "The relation 'instrument' from 'e1374' matches option 7 ('e731').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 4, "score": 0.0, "raw": "The relation 'genre' from 'e727' matches option 4 ('e1100').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 9, "score": 1.0, "raw": "The relation 'instrument' from 'e379' matches option 9 ('e291').\nANSWER: 9"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 9, "score": 1.0, "raw": "The relation 'occupation' from 'e45' matches option 9 ('e1').\nANSWER: 9"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'diplomatic_relation' from 'e506' matches option 2 ('e821').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'member_of' from 'e761' matches option 1 ('e793').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 10, "score": 0.0, "raw": "The relation 'member_of' from 'e819' matches option 10 ('e812').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 5, "score": 0.0, "raw": "The relation 'occupation' from 'e1275' matches option 5 ('e504').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 1, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e433' matches option 1 ('e804').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 7, "score": 0.0, "raw": "The relation 'place_of_death' from 'e1084' matches option 7 ('e724').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 2, "pred": 2, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'e843' matches option 2 ('e424').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 6, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e849' matches option 6 ('e424').\nANSWER: 6"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 9, "score": 1.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'e315' matches option 9 ('e3').\nANSWER: 9"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 8, "score": 0.0, "raw": "The relation 'occupation' from 'e343' matches option 8 ('e505').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 4, "score": 0.0, "raw": "The relation 'genre' from 'e56' matches option 4 ('e1100').\nANSWER: 4"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e420' matches option 2 ('e468').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 1, "score": 0.0, "raw": "The relation 'occupation' from 'e1244' matches option 1 ('e154').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 10, "score": 0.0, "raw": "The relation 'instrument' from 'e503' matches option 10 ('e1081').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 10, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e439' matches option 10 ('e821').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 3, "pred": 1, "score": 0.0, "raw": "The relation 'instrument' from 'e601' matches option 1 ('e1081').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'instrument' from 'e377' matches option 10 ('e731').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 1, "score": 0.0, "raw": "The relation 'member_of' from 'e1429' matches option 1 ('e453').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'member_of' from 'e431' matches option 1 ('e448').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 1, "score": 0.0, "raw": "The relation 'country_of_citizenship' from 'e768' matches option 1 ('e424').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 10, "pred": 10, "score": 1.0, "raw": "The relation 'official_language' from 'e133' matches option 10 ('e1399').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 3, "score": 0.0, "raw": "The relation 'instrument' from 'e556' matches option 3 ('e1257').\nANSWER: 3"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 7, "score": 0.0, "raw": "The relation 'genre' from 'e1328' matches option 7 ('e912').\nANSWER: 7"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 9, "pred": 9, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'e977' matches option 9 ('e424').\nANSWER: 9"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 10, "score": 0.0, "raw": "The relation 'ethnic_group' from 'e715' matches option 10 ('e736').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 1, "pred": 1, "score": 1.0, "raw": "The relation 'country_of_citizenship' from 'e965' matches option 1 ('e424').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 8, "score": 1.0, "raw": "The relation 'occupation' from 'e1383' matches option 8 ('e287').\nANSWER: 8"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 2, "score": 0.0, "raw": "The relation 'diplomatic_relation' from 'e417' matches option 2 ('e832').\nANSWER: 2"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 4, "pred": 10, "score": 0.0, "raw": "The relation 'field_of_work' from 'e1241' matches option 10 ('e749').\nANSWER: 10"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 6, "pred": 6, "score": 1.0, "raw": "The relation 'instrument' from 'e1023' matches option 6 ('e1081').\nANSWER: 6"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'ethnic_group' from 'e1429' matches option 5 ('e1255').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 5, "pred": 5, "score": 1.0, "raw": "The relation 'occupation' from 'e1200' matches option 5 ('e287').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 5, "score": 0.0, "raw": "The relation 'place_of_death' from 'e548' matches option 5 ('e610').\nANSWER: 5"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 8, "pred": 1, "score": 0.0, "raw": "The relation 'field_of_work' from 'e721' matches option 1 ('e1270').\nANSWER: 1"}
+{"arm": "lora_pointer", "enc": "pointer", "gold": 7, "pred": 1, "score": 0.0, "raw": "The relation 'languages_spoken,_written,_or_signed' from 'e1241' matches option 1 ('e3').\nANSWER: 1"}
