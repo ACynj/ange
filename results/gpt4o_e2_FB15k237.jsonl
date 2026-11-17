@@ -1,0 +1,800 @@
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "E", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `b__award_award_nominee_award_nominations__award_award_nomination_award` startin"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__sports_sports_team_sport` starting from entity `/m/01slc`, we need to analyze the edges provided i"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "J", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `b__music_genre_parent_genre` starting from entity `/m/02w4v` (which corresponds"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "J", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award`"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `b__influence_influence_node_influenced_by` starting from entity `/m/08433` (whi"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `b__sports_sports_league_teams__sports_sports_league_participation_team` starting from entity"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "E", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__film_film_language` starting from the entity `/m/04h9h` (which corre"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "B", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__base_marchmadness_ncaa_basketball_tournament_seeds__base_marchmadnes"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__award_award_category_nominees__award_award_nomination_nominated_for`"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "J", "score": 0.0, "raw": "To solve the question, we need to determine the correct target of the relation `f__award_award_category_nominees__award_award_nomination_nominated_for"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `f__music_artist_origin` starting from entity `/m/0fpj4lx`. However, after analyzing the prov"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "B", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__base_eating_practicer_of_diet_diet` starting from the entity `/m/07_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__award_award_category_nominees__award_award_nomination_nominated_for`"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "The provided graph does not contain any edges with the relation `b__base_culturalevent_event_entity_involved`. Therefore, there is no information in t"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award` starting from entity `/m/04hp"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "I", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `f__people_person_religion` starting from entity `/m/01vvpjj`. However,"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "J", "score": 1.0, "raw": "To determine the correct answer, we need to find the target entity of the relation `b__base_petbreeds_city_with_dogs_top_breeds__base_petbreeds_dog_ci"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `f__award_award_winning_work_awards_won__award_award_honor_award` starting from entity `/m/01vfqh` (e0"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "A", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__film_film_release_date_s__film_film_regional_release_date_fi"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__sports_professional_sports_team_draft_picks__sports_sports_league_draft_pick_school` starting from"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "E", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `f__food_food_nutrients__food_nutrition_fact_nutrient` starting from entity `/m/"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `f__film_film_film_format` starting from entity `/m/0fb7sd`. However, after analyzing the pro"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "J", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `f__film_film_release_date_s__film_film_regional_release_date_film_rele"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "A", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__music_performance_role_regular_performances__music_group_membership_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "J", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__award_award_nominee_award_nominations__award_award_nomination_award`"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__film_film_subject_films` starting from entity `/m/081pw` (e1), we need to look at the edges where "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To answer the question, we need to identify the correct target of the relation `f__film_film_personal_appearances__film_personal_film_appearance_perso"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__location_statistical_region_religions__location_religion_percentage_religion` starting from entity"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__music_genre_artists` starting from entity `/m/0134wr` (which corresp"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `b__film_film_other_crew__film_film_crew_gig_film_crew_role` starting from the e"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__people_person_religion` starting from entity `/m/0127xk`, we need to examine the edges provided in"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__government_legislative_session_members__government_government_positi"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the edges in the graph where the source entity is `/m/0ywqc` (alias for `e1`) and the relation is `f__film_actor_fi"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "The relation `b__film_actor_film__film_performance_film` does not appear in the provided list of relations. Therefore, there is no information in the "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `b__award_award_nominee_award_nominations__award_award_nominati"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target entity of the relation `f__film_film_release_date_s__film_film_regional_release_date_fil"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "E", "score": 0.0, "raw": "To determine the correct target of the relation `f__award_award_category_winners__award_award_honor_award_winner` starting from entity `/m/027b9ly` (w"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to find the target entity of the relation `b__location_location_contains` starting from the entity `/m/0mws3`"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target of the relation `f__people_person_nationality` starting from the entity `/m/02v49c`. H"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "J", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `f__people_person_nationality` starting from entity `/m/01_k1z`. Howeve"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "J", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__people_person_profession` starting from entity `/m/07h5d` (which cor"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `b__influence_influence_node_influenced_by` starting from entity `/m/01"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "I", "score": 1.0, "raw": "The relation `f__people_person_spouse_s__people_marriage_type_of_union` is not present in the provided list of edges. Therefore, there is no informati"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `b__film_film_music` starting from the entity `/m/05_pkf`. However, after analyzing the provi"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "C", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `b__government_government_office_category_officeholders__government_government_p"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__film_film_production_companies` starting from entity `/m/02hvd`, we need to examine the provided g"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "H", "score": 0.0, "raw": "To solve the question, we need to identify the correct target entity of the relation `b__education_educational_institution_students_graduates__educati"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `b__music_genre_artists` starting from entity `/m/04mky3`. However, the"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__film_film_executive_produced_by` starting from entity `/m/0glyyw`, we need to examine the edges pr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__award_award_ceremony_awards_presented__award_award_honor_award_winner` starting from entity `/m/08"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__music_genre_artists` starting from entity `/m/02qdgx`. \n\nFro"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__award_award_category_winners__award_award_honor_ceremony` starting f"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `f__film_film_language` starting from the entity `/m/09rfh9`. However, after analyzing the pr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `f__people_person_profession` starting from the entity `/m/0227"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "E", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__film_film_other_crew__film_film_crew_gig_film_crew_role` sta"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__sports_professional_sports_team_draft_picks__sports_sports_l"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "I", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `b__music_record_label_artist` starting from entity `/m/0pqp3`. However"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "The relation `f__people_person_gender` does not appear in the provided list of relations or edges. Therefore, there is no valid target entity for this"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__film_film_genre` starting from the entity `/m/0cy__l`. Howev"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `f__award_award_category_winners__award_award_honor_ceremony` starting from the "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "A", "score": 1.0, "raw": "To solve this, we need to identify the correct target of the relation `f__award_award_category_winners__award_award_honor_ceremony` starting from the "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to determine the correct target entity of the relation `b__music_genre_artists` starting from entity `/m/017959`. Howe"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `b__location_country_form_of_government` starting from entity `/m/018wl5` (which"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__people_person_languages` starting from entity `/m/0dqcm` (e1), we need to look at the edges in the"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "H", "score": 0.0, "raw": "To solve this question, we need to determine the correct target entity of the relation `b__education_educational_degree_people_with_this_degree__educa"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__award_award_category_disciplines_or_subjects` starting from entity `/m/04g51` (which corresponds t"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__people_person_profession` starting from entity `/m/028kk_` (which co"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target entity of the relation `b__travel_travel_destination_how_to_get_here__travel_transportat"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target entity for the relation `f__sports_professional_sports_team_draft_picks__sports_sports_l"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to determine the correct target of the relation `f__film_film_genre` starting from the entity `/m/0n1s0`. \n\n### Step 1"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__sports_sports_position_players__sports_sports_team_roster_team` star"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__film_film_production_companies` starting from entity `/m/014_x2`, we need to look at the edges pro"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "J", "score": 0.0, "raw": "To solve this, we need to identify the target entity of the relation `f__organization_organization_member_member_of__organization_organization_members"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award` starting from entity `/m/05v1"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "G", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__education_educational_institution_students_graduates__educat"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `f__film_film_other_crew__film_film_crew_gig_film_crew_role` starting f"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award` starting from entity `/m/02t_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `f__people_person_profession` starting from entity `/m/01pfkw` (e1), we need to look at the edges in t"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `b__music_performance_role_regular_performances__music_group_membership_group` s"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "F", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `f__people_person_languages` starting from entity `/m/04cmrt`. However,"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__music_genre_artists` starting from entity `/m/0f_y9`, we need to analyze the edges provided in the"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__music_genre_artists` starting from entity `/m/03_0p`, we need to examine the edges provided in the"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `b__people_person_places_lived__people_place_lived_location` starting f"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `f__people_person_profession` starting from entity `/m/0kh6b`. \n\nFrom t"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__film_film_release_date_s__film_film_regional_release_date_film_relea"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `f__film_actor_film__film_performance_film` starting from the entity `/m/05zjx`. However, the"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "J", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__location_location_adjoin_s__location_adjoining_relationship_adjoins`"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "D", "score": 0.0, "raw": "The question asks for the correct target of the relation `f__tv_tv_program_genre` starting from the entity `/m/0gbtbm`. However, after reviewing the p"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "E", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__education_educational_institution_students_graduates__education_educ"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `b__award_award_category_nominees__award_award_nomination_nominated_for` startin"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "A", "score": 0.0, "raw": "The provided graph data does not include any edges with the relation `f__location_location_time_zones`, nor does it include the entity `/m/01btyw`. Th"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__people_person_nationality` starting from entity `/m/08nz99`, we need to look for an edge in the pr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `b__film_director_film` starting from entity `/m/04gknr`. However, afte"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to analyze the graph and find the edges that match the relation `f__award_award_nominee_award_nominations__aw"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "A", "score": 0.0, "raw": "To determine the correct answer, we need to find the target entity of the relation `f__film_film_country` starting from the entity `/m/06x43v`. \n\n1. F"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__music_genre_artists` starting from entity `/m/01ww_vs`. \n\n1. First, "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `f__location_location_time_zones` starting from entity `/m/0ycht`. However, after analyzing t"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `f__people_person_profession` starting from entity `/m/02hy9p`, we need to analyze the edges provided "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "A", "score": 1.0, "raw": "To determine the correct target of the relation `b__organization_role_leaders__organization_leadership_organization` starting from entity `/m/0172jm`,"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__award_award_nominee_award_nominations__award_award_nominatio"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `f__film_actor_film__film_performance_film` starting from entity `/m/041c4` (whi"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "J", "score": 0.0, "raw": "To answer the question, we need to determine the correct target of the relation `f__film_actor_film__film_performance_film` starting from the entity `"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "The relation `f__film_film_release_date_s__film_film_regional_release_date_film_release_distribution_medium` does not appear in the provided list of e"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__education_educational_institution_students_graduates__education_educ"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `b__people_marriage_union_type_unions_of_this_type__people_marriage_location_of_ceremony` sta"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__music_genre_artists` starting from entity `/m/01243b` (which"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__film_film_release_date_s__film_film_regional_release_date_film_release_region` starting from entit"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__award_award_category_nominees__award_award_nomination_nominated_for` starting from entity `/m/016z"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `f__film_film_subject_films` starting from entity `/m/07_nf` (which corresponds "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__music_genre_artists` starting from entity `/m/04b7xr` (which corresp"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "J", "score": 0.0, "raw": "To solve the question, we need to identify the target entity of the relation `f__people_person_places_lived__people_place_lived_location` starting fro"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to determine the correct target of the relation `b__location_location_contains` starting from the entity `/m/0225bv`. "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `b__location_location_contains` starting from entity `/m/02sn34`. However, the provided subgr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__film_film_production_companies` starting from entity `/m/0c_j5d`, we need to examine the edges pro"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "J", "score": 0.0, "raw": "To solve the question, we need to determine the correct target of the relation `f__people_person_profession` starting from the entity `/m/025tdwc` (wh"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__education_educational_institution_students_graduates__education_educ"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "J", "score": 0.0, "raw": "To determine the correct answer, we need to find the edges in the graph that match the following criteria:\n\n1. The source entity is `/m/03gqgt3`.\n2. T"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `b__organization_role_leaders__organization_leadership_organization` starting from entity `/m"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__award_award_nominee_award_nominations__award_award_nomination_award`"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "B", "score": 0.0, "raw": "To solve the question, we need to determine which entity is the correct target of the relation `b__sports_sports_team_colors` starting from entity `/m"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to determine the correct target of the relation `f__film_film_language` starting from the entity `/m/0c0yh4`.\n\n### Step"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `b__film_film_subject_films` starting from entity `/m/0yxf4`. However, after analyzing the pr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__film_actor_film__film_performance_film` starting from entity `/m/03f"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target entity of the relation `b__base_localfood_seasonal_month_produce_available__base_localfood_produ"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "J", "score": 1.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__film_actor_film__film_performance_film` starting from entity `/m/0f4"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__film_film_release_date_s__film_film_regional_release_date_film_relea"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "I", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `f__education_educational_institution_school_type` starting from entity"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to determine the correct target of the relation `f__education_educational_institution_students_graduates__education_ed"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__award_award_nominee_award_nominations__award_award_nomination_award` starting from entity `/m/02f7"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the edges in the graph that match the given relation `b__education_educational_degree_people_with_this_degree__educ"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__award_award_category_winners__award_award_honor_ceremony` starting from entity `/m/0bzn6_`, we nee"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "J", "score": 0.0, "raw": "To determine the correct answer, we need to identify if there is an edge in the graph with the relation `f__education_educational_institution_campuses"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "J", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__location_location_contains` starting from the entity `/m/04pnx`.\n\n##"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award`"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `b__film_actor_film__film_performance_film` starting from the entity `/m/057__d`. However, th"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "C", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `f__people_person_profession` starting from entity `/m/076_74` (which correspond"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `f__award_award_winning_work_awards_won__award_award_honor_award` start"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `f__film_film_featured_film_locations` starting from the entity `/m/072x7s` (whi"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "E", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__food_food_nutrients__food_nutrition_fact_nutrient` starting from ent"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "The provided data does not include any information about the entity `/m/02rq7nd` or the relation `f__tv_tv_program_country_of_origin`. Without this in"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity for the relation `f__film_film_estimated_budget__measurement_unit_dated_money_va"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "I", "score": 0.0, "raw": "The question asks for the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award` starting from the en"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "B", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `b__government_governmental_body_members__government_government_positio"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__influence_influence_node_influenced_by` starting from entity `/m/01dvtx`, we need to look at the e"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target entity of the relation `b__organization_organization_member_member_of__organization_orga"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__award_award_nominee_award_nominations__award_award_nominatio"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to determine the correct target of the relation `b__music_record_label_artist` starting from the entity `/m/01v0sxx`.\n\n"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target entity of the relation `b__music_group_member_membership__music_group_membership_group` "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "A", "score": 0.0, "raw": "To determine the correct answer, we need to identify the entity `/m/09rvwmy` in the alias list and then find the target of the relation `f__film_film_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "J", "score": 0.0, "raw": "To solve this, we need to identify the target entity of the relation `b__award_award_nominee_award_nominations__award_award_nomination_award_nominee` "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "I", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__government_governmental_body_members__government_government_position"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `f__film_film_cinematography` starting from entity `/m/026p_bs`. Howeve"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "J", "score": 0.0, "raw": "To solve this, we need to identify the edges in the graph that match the following criteria:\n\n1. The source entity is `/m/05np2`.\n2. The relation is `"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `b__people_ethnicity_people` starting from entity `/m/01pbwwl`. However, after reviewing the "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "B", "score": 0.0, "raw": "To determine the correct target of the relation `b__award_award_category_nominees__award_award_nomination_nominated_for` starting from entity `/m/0b73"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `b__baseball_baseball_team_team_stats__baseball_baseball_team_st"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "I", "score": 1.0, "raw": "To determine the correct target of the relation `f__film_film_language` starting from entity `/m/0cpllql`, we need to analyze the edges provided in th"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "J", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `b__food_food_nutrients__food_nutrition_fact_nutrient` starting from the entity "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__film_film_release_date_s__film_film_regional_release_date_film_relea"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `f__film_film_produced_by` starting from entity `/m/0gtv7pk`. However, after analyzing the pr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "The relation `f__award_award_nominee_award_nominations__award_award_nomination_award` does not appear in the provided list of relations. Therefore, th"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "J", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `f__film_film_genre` starting from the entity `/m/0gvvf4j` (which corresponds to"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to find the target entity of the relation `f__award_award_nominee_award_nominations__award_award_nomination_n"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": "The question asks for the correct target of the relation `f__sports_sports_team_sport` starting from entity `/m/0dwz3t`. However, after reviewing the "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "The provided data does not include any edges with the relation `f__film_film_written_by`, nor does it include the entity `/m/09d38d` in the list of no"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `b__organization_organization_member_member_of__organization_organization_member"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `b__film_film_other_crew__film_film_crew_gig_film_crew_role` starting from entity `/m/0263ycg` (which "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to find the edges in the graph where the source entity is `/m/03ryks` and the relation is `f__music_artist_tr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__tv_non_character_role_tv_regular_personal_appearances__tv_tv_regular_personal_appearance_person` s"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__location_country_official_language` starting from entity `/m/0168t`, we need to analyze the edges "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "J", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `f__sports_sports_team_colors` starting from entity `/m/084l5` "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "I", "score": 0.0, "raw": "To answer your question, I need to analyze the given graph and identify the correct target of the relation `f__film_film_estimated_budget__measurement"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "The relation `f__film_film_film_festivals` does not appear in the provided list of relations or edges. Therefore, there is no information in the given"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation `f__base_aareas_schema_administrative_area_administrative_parent` starting from entity `/m/06ryl`, we "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target entity of the relation `b__award_award_category_winners__award_award_honor_award_winner`"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__film_film_release_date_s__film_film_regional_release_date_film_release_region` starting from entit"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__award_award_nominee_award_nominations__award_award_nomination_nominated_for` starting from entity "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "I", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `f__influence_influence_node_influenced_by` starting from entity `/m/01"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__education_educational_institution_students_graduates__education_education_student` starting from e"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "I", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `b__location_location_contains` starting from entity `/m/0mlzk`. Howeve"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "The relation `f__film_film_country` does not appear in the provided list of relations or edges. Therefore, there is no valid target for this relation "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "C", "score": 1.0, "raw": "The provided data does not include any edges with the relation `b__location_location_adjoin_s__location_adjoining_relationship_adjoins`. Additionally,"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "The relation `f__people_person_religion` does not appear in the provided list of relations or edges. Therefore, there is no valid target for this rela"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "J", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `f__music_record_label_artist` starting from the entity `/m/01wdtv`.\n\nFrom the a"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `f__influence_influence_node_influenced_by` starting from the entity `/"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "E", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `b__music_genre_artists` starting from entity `/m/01p95y0` (which corresponds to"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "J", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__film_film_genre` starting from entity `/m/07j8r` (which corresponds "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": "The provided graph data does not include any edges with the relation `f__award_award_nominee_award_nominations__award_award_nomination_award` or the e"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award` starting from entity `/m/01vw"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__award_award_nominee_award_nominations__award_award_nomination_nomina"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `f__people_cause_of_death_people` starting from entity `/m/04p3w` (which"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "A", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `f__music_genre_artists` starting from the entity `/m/035wcs`. From the aliases "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `f__film_film_genre` starting from entity `/m/02_qt`. However, the enti"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to find the entity that is the target of the relation `f__education_educational_institution_students_graduate"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "A", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__award_award_nominee_award_nominations__award_award_nomination_award_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to identify the correct target entity of the relation `f__film_film_release_date_s__film_film_regional_release_date_fil"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "J", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `b__film_film_distributor_films_distributed__film_film_film_distributor_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to determine the correct target of the relation `b__music_group_member_membership__music_group_membership_group` starti"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `b__people_ethnicity_people` starting from entity `/m/0prfz`. However, "}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "D", "score": 0.0, "raw": "The edge from e1 (/m/08433) with relation `b__influence_influence_node_influenced_by` points to e35, whose alias is `/m/0yxl`.\n\nANSWER: D"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "B", "score": 0.0, "raw": "The target is e122, which is `/m/0b_6x2`.\n\nANSWER: B"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "G", "score": 0.0, "raw": "The outgoing edges from e1 (`/m/017180`) with the specified relation include:\n\n- e13 = `/m/04kxsb`\n- e23 = `/m/099jhq`\n- e25 = `/m/0f4x7`\n- e28 = `/m/"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "F", "score": 0.0, "raw": "The target /m/09sdmz appears in the outgoing `b__award_award_category_nominees__award_award_nomination_nominated_for` edges from /m/01jrbv.\n\nANSWER: F"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "A", "score": 0.0, "raw": "The source entity `/m/081pw` is `e1`. The edge `e1 f__film_film_subject_films e20` points to `e20 = /m/01jwxx`.\n\nANSWER: A"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "F", "score": 0.0, "raw": "The target `/m/081lh` corresponds to `e36`, and there is an edge:\n\n`e1 f__award_award_category_winners__award_award_honor_award_winner e36`\n\nANSWER: F"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "F", "score": 0.0, "raw": "The outgoing `b__influence_influence_node_influenced_by` edges from `/m/014z8v` (`e1`) include `/m/03g5_y` (`e11`), which is option F.\n\nANSWER: F"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "C", "score": 0.0, "raw": "The edge from e0 (`/m/01y3v`) using the specified relation points to e15 (`/m/0lyjf`), which corresponds to option C.\n\nANSWER: C"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "B", "score": 0.0, "raw": "e1 is `/m/0dqcm`, and it has an outgoing `f__people_person_languages` edge to e25, which is `/m/02h40lc`. This matches option B.\n\nANSWER: B"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "J", "score": 0.0, "raw": "The relevant edge is:\n\ne1 f__organization_organization_member_member_of__organization_organization_membership_organization e27\n\nSince e1 = /m/03__y an"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "D", "score": 0.0, "raw": "The edge from e1 (`/m/01pfkw`) via `f__people_person_profession` includes e10 (`/m/0dxtg`), matching option D.\n\nANSWER: D"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "I", "score": 0.0, "raw": "ANSWER: I"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "B", "score": 0.0, "raw": "The relevant `b__music_genre_artists` edge is `e113 \u2192 e114`, and `e114 = /m/03ckfl9`.\n\nANSWER: B"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "C", "score": 0.0, "raw": "The target `/m/0191h5` corresponds to `e19`, and `e0` has an outgoing `f__music_genre_artists` edge to `e19`.\n\nANSWER: C"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "A", "score": 0.0, "raw": "The edge from `/m/016z5x` (e1) with relation `b__award_award_category_nominees__award_award_nomination_nominated_for` points to `/m/0gq_v` (e4).\n\nANSW"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "F", "score": 0.0, "raw": "The edge from e0 (/m/04b7xr) via `b__music_genre_artists` points to multiple targets, including e28 = /m/064t9.\n\nANSWER: F"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "B", "score": 0.0, "raw": "The relation from e0 (/m/01gstn) targets e34, aliased as /m/07t58, which is option B.\n\nANSWER: B"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "J", "score": 0.0, "raw": "ANSWER: J"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "C", "score": 0.0, "raw": "The edge `e1 f__film_film_genre e31` starts from `/m/0gvvf4j` and points to `/m/05p553`.\n\nANSWER: C"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "E", "score": 0.0, "raw": "The outgoing edge `e0 f__people_cause_of_death_people e6` matches `/m/04p3w \u2192 /m/0136p1`.\n\nANSWER: E"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__award_award_nominee_award_nominations__award_award_nomination_aw"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "A", "score": 0.0, "raw": "The query asks for the correct target of the relation `f__sports_sports_team_sport` starting from entity `/m/01slc` (alias `e1`). However, upon review"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `b__music_genre_parent_genre` starting from entity `/m/02w4v` (e0), we need to examine the edges provi"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award` starting from entity `/m/01hm"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__influence_influence_node_influenced_by` starting from entity `/m/08433` (e1), we need to look at t"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "The query asks for the correct target of the relation `b__sports_sports_league_teams__sports_sports_league_participation_team` starting from entity `/"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `b__film_film_language` starting from entity `/m/04h9h` (which corresponds "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "B", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__base_marchmadness_ncaa_basketball_tournament_seeds__base_marchma"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "E", "score": 1.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__award_award_category_nominees__award_award_nomination_nominated_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the target entity of the relation `f__award_award_category_nominees__award_award_nomination_nominated_for` sta"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__music_artist_origin` starting from entity `/m/0fpj4lx` (e0), we need to examine the edges provided"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "D", "score": 0.0, "raw": "To solve the query, we need to identify the target entity of the relation `b__base_eating_practicer_of_diet_diet` starting from the entity `/m/07_hy` "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to identify the entities that are the targets of the relation `b__award_award_category_nominees__award_award_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "The provided graph data does not include any edges or relations involving the entity `/m/07_m9_` or the relation `b__base_culturalevent_event_entity_i"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award` starting from entity `/m/04hp"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__people_person_religion` starting from entity `/m/01vvpjj`, we need to analyze the given graph. How"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__base_petbreeds_city_with_dogs_top_breeds__base_petbreeds_dog_cit"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `f__award_award_winning_work_awards_won__award_award_honor_award` starting from entity `/m/01vfqh` (e0"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to determine the target entity of the relation `f__film_film_release_date_s__film_film_regional_release_date_film_rele"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "F", "score": 0.0, "raw": "To determine the correct target of the relation `f__sports_professional_sports_team_draft_picks__sports_sports_league_draft_pick_school` starting from"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__food_food_nutrients__food_nutrition_fact_nutrient` starting from entity `/m/0cxn2` (e1), we need t"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "A", "score": 0.0, "raw": "The query asks for the correct target of the relation `f__film_film_film_format` starting from entity `/m/0fb7sd`. However, after analyzing the provid"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to determine if there is an edge in the graph where the source node is `/m/023p33` and the relation is `f__film_film_release_da"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "D", "score": 0.0, "raw": "To determine the correct answer, we need to find the target entity of the relation `b__music_performance_role_regular_performances__music_group_member"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `b__award_award_nominee_award_nominations__award_award_nomination_award` st"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To answer the query, we need to identify the correct target of the relation `f__film_film_subject_films` starting from entity `/m/081pw` (which corres"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To answer the query, we need to identify the correct target entity of the relation `f__film_film_personal_appearances__film_personal_film_appearance_p"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__location_statistical_region_religions__location_religion_percentage_religion` starting from entity"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__music_genre_artists` starting from entity `/m/0134wr` (e0), we need to look at the edges in the gr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve this query, we need to identify the correct target entity of the relation `b__film_film_other_crew__film_film_crew_gig_film_crew_role` starti"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "The provided data does not include any information about the entity `/m/0127xk` or the relation `f__people_person_religion`. Without this information,"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__government_legislative_session_members__government_government_position_held_legislative_sessions` "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "J", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `f__film_actor_film__film_performance_film` starting from entit"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "The query asks for the correct target of the relation `b__film_actor_film__film_performance_film` starting from entity `/m/0299hs`. However, the provi"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "A", "score": 0.0, "raw": "To solve this question, we need to determine the correct target entity of the relation `b__award_award_nominee_award_nominations__award_award_nominati"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__film_film_release_date_s__film_film_regional_release_date_film_r"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__award_award_category_winners__award_award_honor_award_winner` st"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "B", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `b__location_location_contains` starting from the entity `/m/0m"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__people_person_nationality` starting from entity `/m/02v49c`, we need to examine the edges provided"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__people_person_nationality` starting from entity `/m/01_k1z` (e100), we need to look at the edges p"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `f__people_person_profession` starting from entity `e0 = /m/07h5d`.\n\nFrom t"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__influence_influence_node_influenced_by` starting from entity `/m"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "I", "score": 1.0, "raw": "To determine the correct answer, we need to analyze the given data. The query asks for the target of the relation `f__people_person_spouse_s__people_m"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__film_film_music` starting from entity `/m/05_pkf`, we need to analyze the provided graph data. How"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "C", "score": 0.0, "raw": "To determine the correct target of the relation `b__government_government_office_category_officeholders__government_government_position_held_jurisdict"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__film_film_production_companies` starting from entity `/m/02hvd`, we need to examine the edges prov"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__education_educational_institution_students_graduates__education_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to determine the correct target of the relation `b__music_genre_artists` starting from the entity `/m/04mky3`. However"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__film_film_executive_produced_by` starting from entity `/m/0glyyw` (e29), we need to examine the ed"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `b__award_award_ceremony_awards_presented__award_award_honor_award_winner` "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "H", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__music_genre_artists` starting from entity `/m/02qdgx` (alias `e6"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "I", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `b__award_award_category_winners__award_award_honor_ceremony` starting fro"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `f__film_film_language` starting from entity `/m/09rfh9`. Howev"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "J", "score": 0.0, "raw": "To determine the correct answer, we need to analyze the query and the provided graph data.\n\nThe query is:  \n`e95 -f__people_person_profession-> ?`  \nT"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `f__film_film_other_crew__film_film_crew_gig_film_crew_role` st"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__sports_professional_sports_team_draft_picks__sports_sports_leagu"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `b__music_record_label_artist` starting from the entity `/m/0pq"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "A", "score": 0.0, "raw": "The query asks for the target of the relation `f__people_person_gender` starting from entity `/m/06b_0` (e0). However, after analyzing the provided ed"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity for the relation `f__film_film_genre` starting from entity `/m/0cy__l`. However, the"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine the target entity of the relation `f__award_award_category_winners__award_award_honor_ceremony` starting from"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation `f__award_award_category_winners__award_award_honor_ceremony` starting from entity `/m/056jm_`, we nee"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__music_genre_artists` starting from entity `/m/017959`, we need to examine the edges provided in th"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award_nominee` starting from entity "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to determine which entity is the correct target of the relation `b__location_country_form_of_government` starting from entity `"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `f__people_person_languages` starting from entity `/m/0dqcm` (e1), we examine the edges provided in th"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "H", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `b__education_educational_degree_people_with_this_degree__education_education_in"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__award_award_category_disciplines_or_subjects` starting from enti"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the target entity of the relation `b__people_person_profession` starting from entity `/m/028kk_` (alias `e8`)."}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__travel_travel_destination_how_to_get_here__travel_transportation"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__sports_professional_sports_team_draft_picks__sports_sports_leagu"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__film_film_genre` starting from entity `/m/0n1s0`. However, the e"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `f__sports_sports_position_players__sports_sports_team_roster_team` startin"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__film_film_production_companies` starting from entity `/m/014"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "J", "score": 0.0, "raw": "To solve this, we need to identify the correct target entity of the relation `f__organization_organization_member_member_of__organization_organization"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award` starting from entity `/m/05v1"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "G", "score": 0.0, "raw": "To solve the query, we need to determine the target entity of the relation `f__education_educational_institution_students_graduates__education_educati"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__film_film_other_crew__film_film_crew_gig_film_crew_role` sta"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity for the relation `f__award_award_nominee_award_nominations__award_award_nomination_a"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "J", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `f__people_person_profession` starting from entity `e1 = /m/01pfkw`.\n\nFrom the g"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__music_performance_role_regular_performances__music_group_members"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "F", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `f__people_person_languages` starting from the entity `/m/04cmr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity for the relation `b__music_genre_artists` starting from entity `/m/0f_y9`. However, "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to find the entity `/m/03_0p` in the given graph and check if there is an outgoing edge with the relation `b_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__people_person_places_lived__people_place_lived_location` startin"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to determine the target entity of the relation `f__people_person_profession` starting from the entity `/m/0kh6b` (node `e1"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `f__film_film_release_date_s__film_film_regional_release_date_f"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "The given query asks for the correct target of the relation `f__film_actor_film__film_performance_film` starting from the entity `/m/05zjx`. However, "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "J", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `f__location_location_adjoin_s__location_adjoining_relationship"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "D", "score": 0.0, "raw": "The question asks for the correct target of the relation `f__tv_tv_program_genre` starting from the entity `/m/0gbtbm`. However, after reviewing the p"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__education_educational_institution_students_graduates__education_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__award_award_category_nominees__award_award_nomination_nominated_for` starting from entity `/m/01rw"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "A", "score": 0.0, "raw": "The provided graph does not contain any edges or relations involving the entity `/m/01btyw` or the relation `f__location_location_time_zones`. Therefo"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "The given query asks for the correct target of the relation `f__people_person_nationality` starting from the entity `/m/08nz99`. However, after review"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "J", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `b__film_director_film` starting from the entity `/m/04gknr` (e"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "J", "score": 1.0, "raw": "To solve this question, we need to identify the correct target entity for the relation `f__award_award_nominee_award_nominations__award_award_nominati"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `f__film_film_country` starting from the entity `/m/06x43v`. However, the entity"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__music_genre_artists` starting from entity `/m/01ww_vs`. \n\n1. **L"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "The query asks for the target entity of the relation `f__location_location_time_zones` starting from entity `/m/0ycht`. However, the provided graph do"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "B", "score": 0.0, "raw": "To solve this, we need to determine the correct target of the relation `f__people_person_profession` starting from the entity `/m/02hy9p`. However, `/"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "A", "score": 1.0, "raw": "The query asks for the correct target of the relation `b__organization_role_leaders__organization_leadership_organization` starting from entity `/m/01"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the edges in the graph that match the relation `f__award_award_nominee_award_nominations__award_award_nomination_aw"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__film_actor_film__film_performance_film` starting from entity `/m"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "H", "score": 0.0, "raw": "To answer the query, we need to determine the target entity of the relation `f__film_actor_film__film_performance_film` starting from entity `e1` (ali"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "J", "score": 0.0, "raw": "To determine the correct answer, we need to analyze the query and the provided graph data.\n\nThe query is:  \n`e57 -f__film_film_release_date_s__film_fi"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "F", "score": 0.0, "raw": "To determine the correct target of the relation `b__education_educational_institution_students_graduates__education_education_student` starting from e"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "The relation `b__people_marriage_union_type_unions_of_this_type__people_marriage_location_of_ceremony` is not present in the provided edges. Since the"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "The query asks for the correct target of the relation `f__music_genre_artists` starting from entity `/m/01243b` (alias `e0`). To solve this, we need t"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__film_film_release_date_s__film_film_regional_release_date_film_release_region` starting from entit"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__award_award_category_nominees__award_award_nomination_nominated_for` starting from entity `/m/016z"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__film_film_subject_films` starting from entity `/m/07_nf` (alias "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__music_genre_artists` starting from entity `/m/04b7xr` (e0). \n\nFr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `f__people_person_places_lived__people_place_lived_location` starting from entity `/m/0n6f8` (e1), we "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "C", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `b__location_location_contains` starting from entity `/m/0225bv`"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "The provided graph and aliases do not include the entity `/m/02sn34` or the relation `b__location_location_contains`. Therefore, there is no informati"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation `b__film_film_production_companies` starting from entity `/m/0c_j5d`, we need to analyze the edges pro"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "A", "score": 0.0, "raw": "To determine the correct answer, we need to find the target node of the relation `f__people_person_profession` starting from the node `e22` (alias: `/"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To answer the query, we need to determine the target entity of the relation `f__education_educational_institution_students_graduates__education_educat"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "G", "score": 1.0, "raw": "To determine the correct target of the relation `f__military_military_conflict_combatants__military_military_combatant_group_combatants` starting from"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "The relation `b__organization_role_leaders__organization_leadership_organization` is not present in the provided edges. Since there is no edge in the "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__award_award_nominee_award_nominations__award_award_nomination_award` starting from entity `/m/01c4"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__sports_sports_team_colors` starting from entity `/m/0jc_p` (alia"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__film_film_language` starting from entity `/m/0c0yh4` (e39), we need to examine the edges provided "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__film_film_subject_films` starting from entity `/m/0yxf4` (e1), we need to analyze the given graph."}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity for the relation `f__film_actor_film__film_performance_film` starting from entity `/"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `b__base_localfood_seasonal_month_produce_available__base_local"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "J", "score": 1.0, "raw": "To determine the correct target of the relation `b__film_actor_film__film_performance_film` starting from entity `/m/0f4_2k` (e1), we analyze the edge"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target entity of the relation `f__film_film_release_date_s__film_film_regional_release_date_film_releas"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "The query asks for the correct target of the relation `f__education_educational_institution_school_type` starting from entity `/m/01qwb5`. However, th"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "J", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__education_educational_institution_students_graduates__educat"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target entity of the relation `b__award_award_nominee_award_nominations__award_award_nomination_award` "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "C", "score": 0.0, "raw": "To determine the correct target entity for the relation `b__education_educational_degree_people_with_this_degree__education_education_institution` sta"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__award_award_category_winners__award_award_honor_ceremony` starting from entity `/m/0bzn6_`, we nee"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "I", "score": 1.0, "raw": "To determine the correct answer, we need to analyze the given graph and identify the target node of the relation `f__education_educational_institution"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to determine the target entity of the relation `f__location_location_contains` starting from the entity `/m/04pnx` (alias "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__award_award_nominee_award_nominations__award_award_nomination_aw"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "I", "score": 0.0, "raw": "To determine the correct target of the relation `b__film_actor_film__film_performance_film` starting from entity `/m/057__d`, we need to examine the e"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__people_person_profession` starting from entity `/m/076_74` (alia"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__award_award_winning_work_awards_won__award_award_honor_award` st"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__film_film_featured_film_locations` starting from entity `/m/072x"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__food_food_nutrients__food_nutrition_fact_nutrient` starting from"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "H", "score": 0.0, "raw": "The provided graph does not contain any edges or nodes related to the entity `/m/02rq7nd` or the relation `f__tv_tv_program_country_of_origin`. Withou"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "The query asks for the correct target of the relation `f__film_film_estimated_budget__measurement_unit_dated_money_value_currency` starting from entit"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "The query asks for the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award` starting from entity `/"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "B", "score": 0.0, "raw": "To solve the query, we need to determine the target entity of the relation `b__government_governmental_body_members__government_government_position_he"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__influence_influence_node_influenced_by` starting from entity"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__organization_organization_member_member_of__organization_organiz"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__award_award_nominee_award_nominations__award_award_nomination_aw"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine the target entity of the relation `b__music_record_label_artist` starting from the entity `/m/01v0sxx` (node "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity for the relation `b__music_group_member_membership__music_group_membership_group` st"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve the question, we need to determine the correct target of the relation `f__film_film_other_crew__film_film_crew_gig_film_crew_role` starting f"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to determine the target entity of the relation `b__award_award_nominee_award_nominations__award_award_nomination_award_nom"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "B", "score": 0.0, "raw": "To determine the correct target of the relation `b__government_governmental_body_members__government_government_position_held_legislative_sessions` st"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "The query asks for the correct target of the relation `f__film_film_cinematography` starting from entity `/m/026p_bs` (alias `e126`). However, there a"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "I", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `f__influence_influence_node_influenced_by` starting from entity `/m/05np2`"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__people_ethnicity_people` starting from entity `/m/01pbwwl` (e47), we need to look at the edges pro"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `b__award_award_category_nominees__award_award_nomination_nomin"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "E", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__baseball_baseball_team_team_stats__baseball_baseball_team_stats_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "A", "score": 0.0, "raw": "The question asks for the correct target of the relation `f__film_film_language` starting from entity `/m/0cpllql`. However, the provided graph data d"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the target entity of the relation `b__food_food_nutrients__food_nutrition_fact_nutrient` starting from entity "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to identify which entity is the target of the relation `f__film_film_release_date_s__film_film_regional_relea"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "The query asks for the target entity of the relation `f__film_film_produced_by` starting from entity `/m/0gtv7pk` (alias: `e1`). However, after analyz"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "The query asks for the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award` starting from the entit"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation `f__film_film_genre` starting from entity `/m/0gvvf4j` (e1), we need to look at the edges provided in "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the target entity of the relation `f__award_award_nominee_award_nominations__award_award_nomination_nominated_"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation `f__sports_sports_team_sport` starting from entity `/m/0dwz3t` (e113), we need to look for an edge in "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "I", "score": 0.0, "raw": "To answer your question, I need to analyze the given subgraph and find the edges that match the relation `f__film_film_written_by` starting from the e"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__organization_organization_member_member_of__organization_organiz"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__film_film_other_crew__film_film_crew_gig_film_crew_role` startin"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `f__music_artist_track_contributions__music_track_contribution_r"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "The query asks for the correct target of the relation `b__tv_non_character_role_tv_regular_personal_appearances__tv_tv_regular_personal_appearance_per"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "The query asks for the target of the relation `f__location_country_official_language` starting from entity `/m/0168t` (node `e37`). However, in the pr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "J", "score": 0.0, "raw": "The query asks for the correct target of the relation `f__sports_sports_team_colors` starting from entity `/m/084l5` (e0). From the provided edges, we"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "The given query asks for the correct target of the relation `f__film_film_estimated_budget__measurement_unit_dated_money_value_currency` starting from"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__film_film_film_festivals` starting from entity `/m/07vfy4`, we need to analyze the edges provided "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__base_aareas_schema_administrative_area_administrative_parent` starting from entity `/m/06ryl`, we "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__award_award_category_winners__award_award_honor_award_winner` st"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "F", "score": 0.0, "raw": "To determine the correct answer, we need to identify the target entity of the relation `f__film_film_release_date_s__film_film_regional_release_date_f"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "The given question asks for the correct target of the relation `b__award_award_nominee_award_nominations__award_award_nomination_nominated_for` starti"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation `f__influence_influence_node_influenced_by` starting from entity `/m/01d494`, we need to examine the e"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity for the relation `b__education_educational_institution_students_graduates__educa"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "I", "score": 0.0, "raw": "To determine the correct target of the relation `b__location_location_contains` starting from entity `/m/0mlzk`, we need to analyze the edges provided"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "The query asks for the target of the relation `f__film_film_country` starting from entity `/m/031t2d` (e0). However, there is no edge in the provided "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "C", "score": 1.0, "raw": "The query asks for the correct target of the relation `b__location_location_adjoin_s__location_adjoining_relationship_adjoins` starting from entity `/"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "The query asks for the target entity of the relation `f__people_person_religion` starting from entity `/m/0dn3n` (e0). However, after analyzing the pr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "H", "score": 0.0, "raw": "To determine the correct target of the relation `f__music_record_label_artist` starting from entity `/m/01wdtv` (e49), we need to look at the edges pr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__influence_influence_node_influenced_by` starting from entity `/m/09gnn`, we need to look for an ed"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `b__music_genre_artists` starting from entity `/m/01p95y0` (alias `e1`). Fr"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__film_film_genre` starting from entity `/m/07j8r` (alias `e0`). \n"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "The given question asks for the correct target of the relation `f__award_award_nominee_award_nominations__award_award_nomination_award` starting from "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__award_award_nominee_award_nominations__award_award_nomination_aw"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To answer the query, we need to identify the correct target of the relation `b__award_award_nominee_award_nominations__award_award_nomination_nominate"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__people_cause_of_death_people` starting from entity `/m/04p3w` (a"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to determine the target entity of the relation `f__music_genre_artists` starting from the entity `/m/035wcs` (alias `e10`)"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `f__film_film_genre` starting from entity `/m/02_qt`, we need to examine the edges provided in the gra"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation `f__education_educational_institution_students_graduates__education_education_major_field_of_study` st"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `b__award_award_nominee_award_nominations__award_award_nomination_award_nominee` starting from entity "}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `f__film_film_release_date_s__film_film_regional_release_date_film_r"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "J", "score": 0.0, "raw": "To answer the query, we need to determine the correct target of the relation `b__film_film_distributor_films_distributed__film_film_film_distributor_r"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `b__music_group_member_membership__music_group_membership_group` sta"}
+{"model": "gpt4o", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": "[ERROR PermissionDeniedError]"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "D", "score": 0.0, "raw": "The outgoing edge from e1 (/m/08433) with relation `b__influence_influence_node_influenced_by` includes:\n\n`e1 -b__influence_influence_node_influenced_"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "B", "score": 0.0, "raw": "e0 has the queried edge to e122, which aliases /m/0b_6x2. This corresponds to option B.\n\nANSWER: B"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "G", "score": 0.0, "raw": "The matching outgoing edge is:\n\ne1 -b__award_award_category_nominees__award_award_nomination_nominated_for-> e31\n\ne31 is aliased as /m/0gs96.\n\nANSWER:"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "F", "score": 0.0, "raw": "The outgoing edges from e0 (`/m/01jrbv`) with relation `b__award_award_category_nominees__award_award_nomination_nominated_for` include targets e8, e1"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "A", "score": 0.0, "raw": "The target `/m/01jwxx` corresponds to `e20`, which is connected from `e1` via `f__film_film_subject_films`.\n\nANSWER: A"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "F", "score": 0.0, "raw": "The correct target matching the queried relation is e36, whose alias is /m/081lh.\n\nANSWER: F"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "B", "score": 0.0, "raw": "The edges from e0 with relation `f__people_person_profession` point to e11, e22, e16, and e9. Among the options, only `/m/02hrh1q` (e16) appears.\n\nANS"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "F", "score": 0.0, "raw": "The edge `e1 -b__influence_influence_node_influenced_by-> e11` matches `/m/014z8v` to `/m/03g5_y`.\n\nANSWER: F"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "C", "score": 0.0, "raw": "The matching edge is:\n\ne0 -f__sports_professional_sports_team_draft_picks__sports_sports_league_draft_pick_school-> e15\n\nAnd e15 = /m/0lyjf, which cor"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "B", "score": 0.0, "raw": "The edge `e1 -f__people_person_languages-> e25` identifies the target as `/m/02h40lc`, which corresponds to option B.\n\nANSWER: B"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "J", "score": 0.0, "raw": "The relevant edge is:\n\ne1 -f__organization_organization_member_member_of__organization_organization_membership_organization-> e27\n\nSince e27 = /m/02vk"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "D", "score": 0.0, "raw": "The outgoing edge is:\n\ne1 (/m/01pfkw) -f__people_person_profession-> e10 (/m/0dxtg)\n\nAmong the options, /m/0dxtg appears as D.\n\nANSWER: D"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "I", "score": 0.0, "raw": "The edge with the queried relation points to e35, whose alias is /m/0fq9zdv.\n\nANSWER: I"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "C", "score": 0.0, "raw": "The edge e0 -f__music_genre_artists-> e19 corresponds to /m/0191h5.\n\nANSWER: C"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "A", "score": 0.0, "raw": "ANSWER: A"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "F", "score": 0.0, "raw": "The `b__music_genre_artists` edges from e0 include e28, which is `/m/064t9`.\n\nANSWER: F"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "B", "score": 0.0, "raw": "The edge is:\n\ne0 -b__government_governmental_body_members__government_government_position_held_legislative_sessions-> e34\n\nAlias: e34 = /m/07t58\n\nANSW"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "J", "score": 0.0, "raw": "The relation edge from e44 (/m/0h1_c) includes:\n\ne44 -b__food_food_nutrients__food_nutrition_fact_nutrient-> e12\n\ne12 is /m/0fbw6, which corresponds t"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "C", "score": 0.0, "raw": "The edge `e1 -f__film_film_genre-> e31` corresponds to `/m/0gvvf4j -f__film_film_genre-> /m/05p553`.\n\nANSWER: C"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "E", "score": 0.0, "raw": "The edge e0 -f__people_cause_of_death_people-> e6 exists, and e6 = /m/0136p1.\n\nANSWER: E"}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "FB15k-237", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}

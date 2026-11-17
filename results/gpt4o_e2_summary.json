@@ -1,0 +1,8 @@
+{
+ "gpt4o_NELL_pointer2": 0.135,
+ "glm53_NELL_pointer2": 0.055,
+ "gpt4o_FB15k-237_edge_list": 0.035,
+ "glm53_FB15k-237_edge_list": 0.0,
+ "gpt4o_FB15k-237_pointer2": 0.04,
+ "glm53_FB15k-237_pointer2": 0.0
+}

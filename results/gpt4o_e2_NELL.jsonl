@@ -1,0 +1,601 @@
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "B", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "E", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "D", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "A", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "E", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "G", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "C", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "J", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "I", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "A", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "J", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "E", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "G", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "I", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "G", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "J", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "E", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "A", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "J", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "G", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "B", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "F", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "I", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "G", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "C", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "B", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "C", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "E", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "F", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "C", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "E", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "C", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "A", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "C", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "I", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "H", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "J", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "J", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "A", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "H", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "F", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "E", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "B", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "J", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "H", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "I", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "E", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "H", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "E", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "I", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "D", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "I", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "H", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "D", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "B", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "G", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "E", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "I", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "G", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "D", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "H", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "D", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "J", "pred": "D", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "G", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "I", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "C", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "E", "pred": "E", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "A", "pred": "G", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "A", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "F", "score": 1.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "E", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "G", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "NA", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "F", "pred": "C", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "edge_list", "gold": "C", "pred": "NA", "score": 0.0}
+{"model": "glm53", "ds": "NELL", "enc": "edge_list", "gold": "B", "pred": "J", "score": 0.0}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_bodypartcontainsbodypart_reverse` starting from the entity `conce"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine which entity is the correct target of the relation `concept_sportschoolincountry` starting from `e1` (alias: "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "D", "score": 1.0, "raw": "To determine the correct target of the relation `concept_subpartof_reverse` starting from the entity `concept_stateorprovince_montana` (e14), we need "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_proxyfor_reverse` starting from the entity `concept_politicaloffic"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "J", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `concept_atdate` starting from the entity `concept_island_mother"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_bodypartcontainsbodypart` starting from the entity `e26`, which is"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_atdate` starting from the entity `e69 = concept_jobposition_court"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine which entities are connected to `e3` (concept_personus_mark_twain) via the relation `concept_bookwriter_rever"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_clothingtogowithclothing` starting from `concept_clothing_dress` (e0), we need to examine the"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_academicprogramatuniversity_reverse` starting from `e168`, "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_companyeconomicsector_reverse` starting from the entity `concept_e"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "D", "score": 0.0, "raw": "To solve this, we need to identify the entity corresponding to \"concept_clothing_glasses\" and find the target of the relation `concept_clothingtogowit"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "A", "score": 0.0, "raw": "To determine the correct target of the relation `concept_furniturefoundinroom_reverse` starting from entity `concept_officebuildingroom_accommodations"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "E", "score": 1.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_statelocatedingeopoliticallocation` starting from the entity `con"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "I", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_animalistypeofanimal` starting from entity `concept_mammal_elk` (e"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "J", "score": 1.0, "raw": "To solve this, we need to determine the correct target of the relation `concept_mutualproxyfor_reverse` starting from the entity `concept_musicalbum_s"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_atdate` starting from the entity `e0` (alias: `concept_country_egy"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "H", "score": 0.0, "raw": "To determine the correct target of the relation `concept_countrycurrency` starting from entity `concept_country_jamaica` (e108), we need to analyze th"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "F", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_atlocation_reverse` starting from the entity `concept_websi"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_worksfor_reverse` starting from entity `concept_governmentorganization_navy` (e61), we need t"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "E", "score": 0.0, "raw": "To determine the correct target of the relation `concept_animalistypeofanimal_reverse` starting from entity `concept_mammal_horses` (e0), we need to e"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_clothingtogowithclothing_reverse` starting from `e1 = concept_clot"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the node corresponding to \"concept_vegetable_spinach\" and check its outgoing edges for the relation \"concept_agricu"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_teamplaysagainstteam_reverse` starting from entity `concept_sportsteam_red_wings` (e1), we ne"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_agentcreated` starting from the entity `concept_city_link` (alias"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_stadiumlocatedincity_reverse` starting from the entity `concept_ci"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "H", "score": 0.0, "raw": "To determine the correct target of the relation `concept_automobilemakerdealersincity` starting from `concept_automobilemaker_nissan` (e0), we need to"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_plantrepresentemotion` starting from `e0 = concept_plant_fl"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_teamplaysagainstteam_reverse` starting from the entity `e84 = conc"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "G", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_organizationdissolvedatdate_reverse` starting from the entity `con"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "H", "score": 1.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_worksfor_reverse` starting from the entity `concept_bank_general_"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "H", "score": 0.0, "raw": "To solve the question, we need to identify the correct target of the relation `concept_subpartof` starting from the entity `concept_museum_facilities`"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "The provided graph and aliases do not include any information about the relation `concept_personmovedtostateorprovince` or the entity `concept_person_"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity for the relation `concept_arthropodcalledarthropod_reverse` starting from `e2 = conc"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_politicianusmemberofpoliticalgroup` starting from entity `e24`, wh"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "H", "score": 1.0, "raw": "To determine the correct target of the relation `concept_televisionstationincity_reverse` starting from entity `concept_city_santa_barbara_de_nexe` (e"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the target entity of the relation `concept_professionistypeofprofession` starting from the node `e7`, which co"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_stadiumlocatedincity` starting from the entity `concept_stadiumor"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_agentcollaborateswithagent_reverse` starting from entity `concept_"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_beveragemadefrombeverage_reverse` starting from `e1`, which"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_atdate` starting from the entity `concept_terroristorganization_fo"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To answer the query, we need to identify the entity that is the target of the relation `concept_cityliesonriver_reverse` starting from the entity `con"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "J", "score": 1.0, "raw": "To determine the correct target of the relation `concept_atlocation_reverse` starting from `concept_city_cleveland` (e0), we need to examine the edges"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_personborninlocation_reverse` starting from the entity `concept_co"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "E", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_atdate` starting from `e0 = concept_website_visit`. From th"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "A", "score": 1.0, "raw": "To solve this, we need to identify the entity that is the target of the relation `concept_worksfor_reverse` starting from the entity `concept_tradeuni"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to find the entity that is the source of the relation 'concept_furniturefoundinroom_reverse' pointing to the entity 'conce"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_personbelongstoorganization_reverse` starting from the entity `con"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the target entity of the relation `concept_atdate` starting from `e93`, which corresponds to `concept_website_"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the entity that is the target of the relation `concept_musicartistgenre_reverse` starting from `e4 = concept_m"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_atdate` starting from the entity `concept_physicalaction_states`. "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the problem, we need to identify the node corresponding to the entity 'concept_charactertrait_survey' and find the target of the 'concept_atd"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_istallerthan` starting from the entity `concept_politicsissue_oreg"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation `concept_personbelongstoorganization_reverse` starting from `concept_politicalparty_college` (e1), we "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "F", "score": 1.0, "raw": "To solve this, we need to identify the entity that the relation `concept_teamplaysagainstteam` points to, starting from the entity `concept_sportsteam"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `concept_furniturefoundinroom_reverse` starting from entity `concept_room_loft` (e141), we need to loo"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_athleteplaysforteam_reverse` starting from the entity `concept_spo"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "G", "score": 1.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_agentcollaborateswithagent` starting from the entity `concept_ceo_"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_agriculturalproductcomingfromvertebrate_reverse` starting from entity `concept_fish_trout`, w"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "I", "score": 1.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_countrylocatedingeopoliticallocation` starting from the entity `co"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the entity that is the target of the relation `concept_teamplaysagainstteam_reverse` starting from `concept_sp"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "A", "score": 1.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_itemfoundinroom_reverse` starting from entity `concept_room_suite`"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "G", "score": 1.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_beveragemadefrombeverage` starting from the entity `e1 = concept_b"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_atdate_reverse` starting from entity `concept_date_n1944` (e1), we need to analyze the edges "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_chemicalistypeofchemical_reverse` starting from `concept_chemical_pollutants` (e0), we need t"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_agriculturalproductcomingfromvertebrate` starting from `e34"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "B", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_academicfieldsuchasacademicfield` starting from the entity `conce"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "I", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_atdate_reverse` starting from the entity `concept_year_n1975` (ali"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "B", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_bodypartcontainsbodypart` starting from entity `concept_artery_ven"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "E", "score": 0.0, "raw": "To solve the query, we need to determine which entity is the correct target of the relation `concept_atdate` starting from `e1 = concept_comedian_day`"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "E", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_teamplaysagainstteam` starting from `e1`, which is `concept"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_athleteplayssportsteamposition_reverse` starting from `e0 ="}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_atdate_reverse` starting from `e0 = concept_dateliteral_n19"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "D", "score": 1.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_politicianusholdsoffice_reverse` starting from `concept_pol"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "J", "score": 0.0, "raw": "To solve the problem, we need to identify the node corresponding to 'concept_city_map' and find the target node of the 'concept_atdate' relation start"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "E", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_teamplaysagainstteam` starting from `e0 = concept_sportstea"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "H", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_beveragemadefrombeverage` starting from the entity `e1` (alias: `"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct answer, we need to identify the node corresponding to \"concept_physicalaction_production\" and check its outgoing edges for th"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "C", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_animalsuchasinvertebrate` starting from the entity `e12 = concept"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_professionistypeofprofession` starting from the entity `e93 = conc"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "G", "score": 0.0, "raw": "The query asks for the target of the relation 'concept_agriculturalproductcookedwithagriculturalproduct' starting from the entity 'concept_food_cream'"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the entities connected to `concept_sportsteam_utah_jazz` (`e1`) via the relation `concept_teamplaysagainstteam"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "C", "score": 0.0, "raw": "To determine the correct target of the relation `concept_countrylocatedingeopoliticallocation` starting from entity `concept_country_tunisia`, we need"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "C", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_agriculturalproductcontainchemical` starting from the entity `conc"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine which entity is the correct target of the relation `concept_athletehomestadium_reverse` starting from `concep"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_agentcreated` starting from the entity `concept_nongovorganization_council` (e40), we need to"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to determine the target of the relation `concept_atdate` starting from the entity `concept_governmentorganization_bureau` "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "H", "score": 0.0, "raw": "To determine the correct target of the relation `concept_chemicalistypeofchemical_reverse` starting from entity `concept_chemical_chemicals` (e1), we "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "C", "score": 0.0, "raw": "To determine the correct target of the relation `concept_itemfoundinroom` starting from the entity `concept_bathroomitem_tubs` (alias `e11`), we need "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `concept_atdate` starting from the entity `concept_city_seat`. H"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `concept_citylocatedingeopoliticallocation_reverse` starting from `concept_country_poland` (e0), we ne"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "H", "score": 1.0, "raw": "To determine the correct target of the relation `concept_cityliesonriver` starting from the entity `concept_city_baghdad` (e101), we need to identify "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "E", "score": 0.0, "raw": "To determine the correct target of the relation `concept_chemicalistypeofchemical` starting from `concept_chemical_nitrogen` (e0), we need to examine "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_chemicalistypeofchemical_reverse` starting from entity `concept_chemical_gases` (e0), we need"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `concept_atdate` starting from the entity `concept_governmentorg"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "I", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `concept_subpartof_reverse` starting from the entity `concept_website_m"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_personalsoknownas` starting from entity `concept_athlete_p_j__walt"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_sportusesequipment_reverse` starting from the entity `concept_spor"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_atdate_reverse` starting from the entity `concept_month_august` (a"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_hashusband_reverse` starting from the entity `concept_athlete_jim` (e4), we need to examine t"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `concept_teamhomestadium_reverse` starting from the entity `concept_stadiumoreve"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "J", "score": 1.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_animaleatfood` starting from entity `e0 = concept_mammal_horses`. "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "I", "score": 0.0, "raw": "To solve the query, we need to identify the entity corresponding to \"concept_country_thailand\" and check its outgoing edges for the relation \"concept_"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_animalpreyson_reverse` starting from the entity `concept_mammal_pu"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "A", "score": 1.0, "raw": "To determine the correct target of the relation `concept_teamplaysincity` starting from entity `concept_sportsteam_los_angeles_clippers` (e31), we nee"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "H", "score": 1.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_organizationhiredperson` starting from the entity `concept_compan"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "A", "score": 0.0, "raw": "To solve this question, we need to identify the correct target entity of the relation `concept_atdate_reverse` starting from the entity `concept_date_"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "B", "score": 1.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_athletehomestadium_reverse` starting from the entity `concept_stad"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_arthropodandotherarthropod_reverse` starting from entity `concept_insect_flies` (e1), we need"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_animaldevelopdisease` starting from `e1`, which is aliased "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_chemicalistypeofchemical_reverse` starting from the entity `e20` ("}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine which entity is the correct target of the relation `concept_teamplaysagainstteam` starting from `e1` (alias: "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_teamplaysincity_reverse` starting from the entity `concept_city_o"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "J", "score": 1.0, "raw": "The query asks for the target of the relation 'concept_bookwriter' starting from entity 'concept_book_peter_pan' (e1). From the given edges, we can se"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_subpartof_reverse` starting from the entity `concept_hallwayitem_a"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "J", "score": 1.0, "raw": "To determine the correct target of the relation `concept_atdate_reverse` starting from entity `concept_date_n1941` (e1), we need to examine the edges "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "F", "score": 0.0, "raw": "To solve the query, we need to identify the entity that is the target of the relation `concept_clothingtogowithclothing_reverse` starting from `e22`, "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_atlocation_reverse` starting from the entity `concept_city_provide"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "The query asks for the target of the relation 'concept_teamplaysagainstteam_reverse' starting from the entity 'concept_sportsteam_florida_gators'. How"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_animalpreyson` starting from the entity `concept_animal_hamsters`"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_chemicalistypeofchemical_reverse` starting from `concept_ch"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_atdate` starting from `e0 = concept_county_philadelphia`. \n"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the entity that is the target of the relation `concept_teamplaysagainstteam_reverse` starting from the entity "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "F", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_chemicalistypeofchemical_reverse` starting from the entity `e11` ("}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation `concept_atdate_reverse` starting from entity `concept_year_n1988` (e1), we need to examine the edges "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_itemfoundinroom_reverse` starting from the entity `concept_"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_invertebratefeedonfood` starting from `e0 = concept_insect_mites`."}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_proxyfor_reverse` starting from the entity `concept_book_years` (e"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_agentcollaborateswithagent_reverse` starting from the entity `e91"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_organizationheadquarteredincity_reverse` starting from the entity "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `concept_atdate` starting from the entity `e0 = concept_county_philadelphia`, we need to examine the e"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the entity connected to `concept_stadiumoreventvenue_united_center` (e18) via the relation `concept_athletehom"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_proxyfor_reverse` starting from entity `concept_university_ohio` ("}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_teamplaysagainstteam` starting from entity `concept_sportsteam_jag"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_atdate` starting from the entity `concept_city_washington_dc` (al"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "G", "score": 1.0, "raw": "To solve this query, we need to determine which entity is the correct target of the relation `concept_agentcontributedtocreativework` starting from `c"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "The query asks for the target of the relation `concept_automobilemakercardealersinstateorprovince_reverse` starting from the entity `concept_stateorpr"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "H", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_agriculturalproductcontainchemical_reverse` starting from the enti"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_furniturefoundinroom_reverse` starting from entity `concept_officebuildingroom_living_room` ("}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "C", "score": 1.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_animalpreyson` starting from the entity `e22`, which is aliased a"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to find the target of the relation 'concept_atdate' starting from the entity 'concept_governmentorganization_commission', "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_athleteinjuredhisbodypart_reverse` starting from the entity `conc"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "D", "score": 0.0, "raw": "To solve this question, we need to identify the correct target of the relation `concept_agentactsinlocation_reverse` starting from the entity `concept"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "H", "score": 1.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_persongraduatedfromuniversity` starting from `concept_perso"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "D", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_animalsuchasinsect` starting from `e0 = concept_arthropod_e"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_locationlocatedwithinlocation_reverse` starting from the entity `c"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "I", "score": 0.0, "raw": "To determine the correct target of the relation `concept_locationlocatedwithinlocation_reverse` starting from the entity `concept_city_police`, we nee"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_bacteriaisthecausativeagentofphysiologicalcondition` starti"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "I", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_academicfieldconcernssubject_reverse` starting from the entity `co"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_teamplaysagainstteam` starting from `e0`, which is `concept"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the correct target of the relation `concept_athleteplaysforteam_reverse` starting from `e0 = concept_sportsteam_ast"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "H", "score": 0.0, "raw": "To determine the correct target of the relation `concept_itemfoundinroom` starting from the entity `concept_visualizablething_hairdryer` (alias `e2`),"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_mutualproxyfor` starting from entity `concept_stateorprovince_ariz"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_clothingtogowithclothing` starting from the entity `e1`, which is "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "The query asks for the correct target of the relation `concept_televisionstationincity_reverse` starting from the entity `concept_city_louisville` (al"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_agentcompeteswithagent_reverse` starting from the entity `concept_"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "B", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_agentactsinlocation_reverse` starting from entity `concept_island_"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "The provided data does not include any relation named `concept_istallerthan` or any entity named `concept_politicalparty_parliament`. Without this inf"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "J", "score": 1.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_atdate_reverse` starting from `e0 = concept_dateliteral_n19"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_proxyfor_reverse` starting from entity `concept_coach_kentucky` (e1), we need to analyze the "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "H", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_subpartof_reverse` starting from the entity `concept_website_peru`"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "The given query asks for the target of the relation `concept_agentcontrols_reverse` starting from the entity `concept_book_america`. However, after an"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "I", "score": 0.0, "raw": "To solve the query, we need to identify the target entity of the relation `concept_atdate` starting from `e119`, which is aliased as `concept_eventout"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine the target of the relation `concept_organizationhiredperson` starting from the entity `e51` (alias: `concept_"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "G", "score": 1.0, "raw": "The query asks for the correct target of the relation `concept_organizationhiredperson` starting from the entity `concept_city_madrid` (e11). However,"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_teamplaysagainstteam_reverse` starting from the entity `concept_s"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation `concept_politicianusmemberofpoliticalgroup` starting from the entity `concept_female_hillary` (e1), w"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_teamplaysincity_reverse` starting from the entity `concept_city_ph"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "D", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_plantincludeplant` starting from `e47`, which corresponds t"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_countryalsoknownas_reverse` starting from the entity `concept_coun"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "H", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_athletehomestadium_reverse` starting from entity `concept_stadiumo"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_chemicalistypeofchemical_reverse` starting from entity `concept_chemical_sulfur` (e1), we nee"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_atdate_reverse` starting from `e1`, which is aliased as `co"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_visualartistartform_reverse` starting from `concept_visuali"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_personhasjobposition_reverse` starting from `concept_jobposition_king` (e0), we need to ident"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to identify the node corresponding to \"concept_geometricshape_effect\" and check its outgoing edges with the relation \"concept_a"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "D", "score": 0.0, "raw": "To solve the query, we need to identify the target entity of the relation `concept_atdate` starting from the entity `e139`, which is aliased as `conce"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "D", "score": 0.0, "raw": "To solve the query, we need to determine the correct target of the relation `concept_companyeconomicsector` starting from the entity `concept_publicat"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the target entity of the relation `concept_sportsgamewinner_reverse` starting from the entity `e6`, which is `"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "G", "score": 0.0, "raw": "To determine the correct target of the relation `concept_clothingtogowithclothing` starting from the entity `concept_visualizableobject_coat` (e8), we"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_agentcollaborateswithagent` starting from `concept_mountain_fox` (e0), we analyze the edges p"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to determine which entity is the correct target of the relation `concept_arthropodandotherarthropod_reverse` starting from"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "G", "score": 1.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_agriculturalproductcomingfromvertebrate` starting from the "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_personleadsorganization_reverse` starting from the entity `e99 = concept_company_apple002`, w"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "J", "score": 0.0, "raw": "To determine the correct target of the relation `concept_professionistypeofprofession` starting from the entity `concept_profession_support_staff` (e1"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_professionistypeofprofession_reverse` starting from the entity `co"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "B", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_countrylocatedingeopoliticallocation` starting from `e1`, w"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_teamplaysagainstteam` starting from the entity `concept_sportsteam"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_teamplaysagainstteam_reverse` starting from the entity `con"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "A", "score": 0.0, "raw": "To solve the query, we need to determine which entity is the correct target of the relation `concept_atdate_reverse` starting from `e0 = concept_year_"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_hasofficeincity` starting from the entity `concept_company_ryanair"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "The query asks for the target of the relation 'concept_clothingtogowithclothing_reverse' starting from the entity 'concept_clothing_dress' (e0). We ne"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_organizationheadquarteredinstateorprovince_reverse` starting from "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "F", "score": 1.0, "raw": "To determine the correct target of the relation `concept_citylocatedincountry` starting from the entity `concept_city_madrid` (e11), we need to analyz"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "G", "score": 0.0, "raw": "The query asks for the target of the relation 'concept_athletehomestadium_reverse' starting from the entity 'concept_stadiumoreventvenue_wrigley_field"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": "To determine the correct target of the relation `concept_clothingtogowithclothing_reverse` starting from `concept_clothing_jacket` (e0), we need to ex"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "J", "score": 0.0, "raw": "To solve the query, we need to identify the correct target of the relation `concept_subpartof_reverse` starting from the entity `concept_university_ke"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "To solve this, we need to determine which entity is the correct target of the relation `concept_personbelongstoorganization_reverse` starting from `co"}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "C", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_animalistypeofanimal` starting from `e1`, which is aliased "}
+{"model": "gpt4o", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "B", "score": 0.0, "raw": "To solve the query, we need to identify the correct target entity of the relation `concept_bakedgoodservedwithbeverage_reverse` starting from `e5`, wh"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "D", "score": 1.0, "raw": "The target should be a subpart of Montana. Among the options, the matching entity is **concept_city_great_falls**.\n\nANSWER: D"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "D", "score": 1.0, "raw": "The outgoing `concept_bookwriter_reverse` edges from e3 (`concept_personus_mark_twain`) include e0, which is `concept_book_adventures_of_tom_sawyer`, "}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "E", "score": 0.0, "raw": "The edge from e14 (`concept_economicsector_electronics`) with relation `concept_companyeconomicsector_reverse` points to e45 (`concept_bank_hitachi`),"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": "[ERROR APITimeoutError]"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "E", "score": 1.0, "raw": "Petco Park is located in San Diego.\n\nANSWER: E"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "D", "score": 0.0, "raw": "The edge `e17 -concept_atdate_reverse-> e31` implies the forward relation:\n\n`e31 -concept_atdate-> e17`\n\n`e17 = concept_year_n1995`\n\nANSWER: D"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "A", "score": 1.0, "raw": "The relevant `concept_worksfor_reverse` edge points to `e33`, which is `concept_personmexico_ryan_whitney`.\n\nANSWER: A"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "J", "score": 0.0, "raw": "The matching edge is e1 -concept_personbelongstoorganization_reverse-> e39, and e39 = concept_female_mary.\n\nANSWER: J"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "G", "score": 0.0, "raw": "The graph includes:\n\ne4 -concept_musicartistgenre_reverse-> e51\n\nand e51 = concept_musicartist_jimi_hendrix, which matches option G.\n\nANSWER: G"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "B", "score": 1.0, "raw": "The graph edge is:\n\ne26 -concept_athleteplaysforteam_reverse-> e70\n\ne26 is concept_sportsteam_liverpool, and e70 is concept_personaustralia_michael_ow"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "I", "score": 1.0, "raw": "The relevant edge is:\n\ne5 -concept_countrylocatedingeopoliticallocation-> e6\n\nHere, e5 corresponds to the country associated with Zimbabwe/Rhodesia, a"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "A", "score": 0.0, "raw": "The outgoing edge from e1 (concept_sportsteam_tampa) using `concept_teamplaysagainstteam` includes e12, which is `concept_sportsteam_yankees`.\n\nANSWER"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "J", "score": 0.0, "raw": "The outgoing `concept_teamplaysagainstteam` edge from `e0` includes `e10`, which is `concept_sportsteam_packers`.\n\nANSWER: J"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "C", "score": 0.0, "raw": "The edge `e1 -concept_beveragemadefrombeverage-> e17` exists, and `e17 = concept_wine_merlot`.\n\nANSWER: C"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "I", "score": 0.0, "raw": "The edge from e1 (`concept_stadiumoreventvenue_giants_stadium`) with relation `concept_athletehomestadium_reverse` includes:\n\n`e1 -concept_athletehome"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "I", "score": 0.0, "raw": "The correct target is e7 = concept_chemical_gas.\n\nANSWER: I"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "J", "score": 1.0, "raw": "Madison Square Garden is the home venue for the New York Liberty among the listed options.\n\nANSWER: J"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "I", "score": 0.0, "raw": "The direct outgoing edge `e1 -concept_teamplaysagainstteam-> e2` corresponds to `concept_sportsteam_ravens`.\n\nANSWER: I"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "B", "score": 0.0, "raw": "The correct target is **concept_sportsteam_magic**.\n\nANSWER: B"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "J", "score": 1.0, "raw": "The edge `e1 -concept_bookwriter-> e2` matches `concept_book_peter_pan -> concept_writer_j_m__barrie`, which is option J.\n\nANSWER: J"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "G", "score": 0.0, "raw": "The edge `e1 -concept_atdate_reverse-> e3` exists, and `e3 = concept_politicaloffice_office`.\n\nANSWER: G"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "G", "score": 1.0, "raw": "The relevant target is e2 = concept_book_a_spell_for_chameleon.\n\nANSWER: G"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "F", "score": 0.0, "raw": "The edge from e10 (concept_bacteria_salmonella) via the queried relation includes:\n\ne10 -concept_bacteriaisthecausativeagentofphysiologicalcondition->"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "I", "score": 0.0, "raw": "The relevant target among the listed options is e30 = concept_academicfield_science_education.\n\nANSWER: I"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "E", "score": 0.0, "raw": "The relevant inverse edge is:\n\ne0 -concept_itemfoundinroom_reverse-> e2\n\nThis means e2 -concept_itemfoundinroom-> e0, and e0 is `concept_visualizablet"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "I", "score": 0.0, "raw": "e119 (concept_eventoutcome_report) has the edge:\n\ne119 -concept_atdate-> e73\n\ne73 = concept_year_n1995\n\nANSWER: I"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "D", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "H", "pred": "H", "score": 1.0, "raw": "e47 is `concept_plant_oak`. Its outgoing `concept_plantincludeplant` edge is:\n\n`e47 -concept_plantincludeplant-> e42`\n\nAlias `e42 = concept_plant_sapl"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": "[ERROR APITimeoutError]"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "H", "score": 0.0, "raw": "The edge `e1 -concept_athletehomestadium_reverse-> e34` identifies `e34 = concept_athlete_tony_esposito`.\n\nANSWER: H"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "E", "score": 0.0, "raw": "The edge e1 -concept_atdate_reverse-> e37 corresponds to concept_date_n1944 \u2192 concept_comedian_day.\n\nANSWER: E"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "D", "score": 0.0, "raw": "The edge is e139 -concept_atdate-> e25, and e25 is concept_date_n1999.\n\nANSWER: D"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "J", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "G", "score": 1.0, "raw": "Beef comes from cows, so the target is concept_mammal_cows.\n\nANSWER: G"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "I", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "B", "score": 0.0, "raw": "The relevant outgoing edge is e1 -concept_countrylocatedingeopoliticallocation-> e3, and e3 is concept_stateorprovince_states. The first matching opti"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "E", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "A", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "D", "score": 0.0, "raw": "ANSWER: D"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "G", "score": 0.0, "raw": "The outgoing edge is:\n\ne1 -concept_athletehomestadium_reverse-> e16\n\nwhere e16 = concept_coach_aaron_harang.\n\nANSWER: G"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "G", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "B", "pred": "NA", "score": 0.0, "raw": ""}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "F", "pred": "C", "score": 0.0, "raw": "The edge `e1 -concept_animalistypeofanimal-> e2` identifies the target. Since `e2 = concept_mammal_animals`, the correct option is C.\n\nANSWER: C"}
+{"model": "glm53", "ds": "NELL", "enc": "pointer2", "gold": "C", "pred": "B", "score": 0.0, "raw": "The edge from e5 with relation `concept_bakedgoodservedwithbeverage_reverse` points to e6, which is `concept_bakedgood_cookie`.\n\nANSWER: B"}
